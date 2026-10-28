@@ -65,10 +65,20 @@ curl -X POST http://localhost:8907/v1/images/generations \
   -d '{"model":"nano-ai","prompt":"cyberpunk cat","style":"frost"}'
 ```
 
-## ⚠️ 关键坑
+## ⚠️ TLS 指纹注意（实测结论，精确版）
 
-**Cloudflare 封 Node / python-requests 的 TLS 指纹**（握手直接 RST）。
-上游请求必须走 `client.py`（`curl_cffi` impersonate chrome124）。`server.js` 已内置桥接。
+上游挂在 Cloudflare，**不同运行时的 TLS 指纹被接受程度不同**：
+
+| 运行时 | 直连结果 |
+|---|---|
+| **Go 标准库 `net/http`** | ✅ **10/10 通过**（推荐，见 `go-client/nanoai.go`）|
+| curl (schannel) | ✅ 通过 |
+| python `curl_cffi` (chrome124) | ✅ 通过 |
+| python `urllib` | ✅ 通过 |
+| **Node.js (`fetch`/undici/https)** | ❌ `ECONNRESET` |
+| python `requests` | ❌ 需 curl_cffi 替身 |
+
+→ **Node 侧 server.js 必须经 `client.py`（curl_cffi）桥接**；Go 可直接标准库直连，无需代理/无需 utls。
 
 ## 📊 压测
 
@@ -82,6 +92,7 @@ curl -X POST http://localhost:8907/v1/images/generations \
 ## 📁 文件
 
 ```
+go-client/nanoai.go   ★ Go 纯协议参考实现（零依赖，可直接跑）
 nano.js      协议层（token/端点/风格）
 server.js    OpenAI 兼容 API + demo
 client.py    TLS 伪装客户端（python, curl_cffi）
@@ -89,6 +100,13 @@ upcall.js    Node→Python 桥接
 stress.js    压测
 config.json  密钥配置
 ```
+
+## 🎯 两个接入路径
+
+| 路径 | 适用 | 说明 |
+|---|---|---|
+| **Go 直连**（推荐） | new-api 原生渠道 | `go-client/nanoai.go` 直接抄进 `relay/channel/nanoai/`，标准库即可，无代理无中间层 |
+| Node 中转 | 快速验证/独立服务 | `server.js`（需 python+curl_cffi 桥接）|
 
 ## 样图
 
