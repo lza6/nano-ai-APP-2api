@@ -1,0 +1,4733 @@
+{
+ "image_styles": [
+  {
+   "style_name": "Burgundy Sari Pose",
+   "material_id": "content_27102026_burgundy_sari_pose_collage",
+   "category": "Trending",
+   "style_id": "prompt_27102026_burgundy_sari_pose_collage",
+   "premium": false
+  },
+  {
+   "style_name": "Sweatshirt Pose",
+   "material_id": "content_27102026_gray_sweatshirt_pose_collage",
+   "category": "Trending",
+   "style_id": "prompt_27102026_gray_sweatshirt_pose_collage",
+   "premium": false
+  },
+  {
+   "style_name": "Pink Halloween",
+   "material_id": "content_14102026_pink_halloween_pumpkin_studio",
+   "category": "Trending",
+   "style_id": "prompt_14102026_pink_halloween_pumpkin_studio",
+   "premium": false
+  },
+  {
+   "style_name": "Garba Night",
+   "material_id": "content_14102026_garba_festival_dandiya",
+   "category": "Trending",
+   "style_id": "prompt_14102026_garba_festival_dandiya",
+   "premium": false
+  },
+  {
+   "style_name": "Neon D��a",
+   "material_id": "content_14102026_day_of_dead_neon_companion",
+   "category": "Trending",
+   "style_id": "prompt_14102026_day_of_dead_neon_companion",
+   "premium": false
+  },
+  {
+   "style_name": "Golden Duo",
+   "material_id": "content_05102026_golden_double_portrait",
+   "category": "Trending",
+   "style_id": "prompt_05102026_golden_double_portrait",
+   "premium": false
+  },
+  {
+   "style_name": "Gas Station",
+   "material_id": "content_lyndi_gas",
+   "category": "Trending",
+   "style_id": "prompt_lyndi_gas",
+   "premium": false
+  },
+  {
+   "style_name": "Anime Flash",
+   "material_id": "content_05102026_live_anime_flashlight",
+   "category": "Trending",
+   "style_id": "prompt_05102026_live_anime_flashlight",
+   "premium": false
+  },
+  {
+   "style_name": "Flash Lock",
+   "material_id": "content_05102026_flash_lock_wallpaper",
+   "category": "Trending",
+   "style_id": "prompt_05102026_flash_lock_wallpaper",
+   "premium": false
+  },
+  {
+   "style_name": "Rose Rider",
+   "material_id": "content_05102026_rose_moto_collage",
+   "category": "Trending",
+   "style_id": "prompt_05102026_rose_moto_collage",
+   "premium": false
+  },
+  {
+   "style_name": "Neon Festival",
+   "material_id": "content_05102026_neon_festival_companion",
+   "category": "Trending",
+   "style_id": "prompt_05102026_neon_festival_companion",
+   "premium": false
+  },
+  {
+   "style_name": "Sunset",
+   "material_id": "content_lyndi_orange",
+   "category": "Trending",
+   "style_id": "prompt_lyndi_orange",
+   "premium": false
+  },
+  {
+   "style_name": "Doodle Overlay",
+   "material_id": "content_sola_doodle_1",
+   "category": "Trending",
+   "style_id": "prompt_nano_doodle_overlay",
+   "premium": false
+  },
+  {
+   "style_name": "Zodiac Collage",
+   "material_id": "content_sola_zodiac",
+   "category": "Trending",
+   "style_id": "prompt_sola_doodle_1",
+   "premium": false
+  },
+  {
+   "style_name": "Soft Portrait",
+   "material_id": "content_nano_soft_portrait",
+   "category": "Trending",
+   "style_id": "prompt_sola_zodiac",
+   "premium": false
+  },
+  {
+   "style_name": "Watercolor Duo",
+   "material_id": "content_nano_watercolor_duo",
+   "category": "Trending",
+   "style_id": "prompt_nano_watercolor_duo",
+   "premium": false
+  },
+  {
+   "style_name": "Crayon Drawing",
+   "material_id": "content_sola_ig",
+   "category": "Trending",
+   "style_id": "prompt_nano_crayon_drawing",
+   "premium": false
+  },
+  {
+   "style_name": "Watercolor Family",
+   "material_id": "content_nano_watercolor_family",
+   "category": "Trending",
+   "style_id": "prompt_nano_watercolor_family",
+   "premium": false
+  },
+  {
+   "style_name": "Watercolor Pair",
+   "material_id": "content_nano_watercolor_pair",
+   "category": "Trending",
+   "style_id": "prompt_nano_watercolor_pair",
+   "premium": false
+  },
+  {
+   "style_name": "Wallpaper Cartoon",
+   "material_id": "content_nano_wallpaper_cartoon",
+   "category": "Trending",
+   "style_id": "prompt_nano_wallpaper_cartoon",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Neutralveil",
+   "material_id": "content_nano_portrait_neutralveil",
+   "category": "Trending",
+   "style_id": "prompt_nano_portrait_neutralveil",
+   "premium": false
+  },
+  {
+   "style_name": "Wallpaper Classic",
+   "material_id": "content_nano_wallpaper_1",
+   "category": "Trending",
+   "style_id": "prompt_nano_wallpaper_1",
+   "premium": false
+  },
+  {
+   "style_name": "Giant Dog",
+   "material_id": "content_nano_giant_dog",
+   "category": "Trending",
+   "style_id": "prompt_nano_giant_dog",
+   "premium": false
+  },
+  {
+   "style_name": "Cartoon Family",
+   "material_id": "content_nano_cartoon_family",
+   "category": "Trending",
+   "style_id": "prompt_nano_cartoon_family",
+   "premium": false
+  },
+  {
+   "style_name": "Heaven Podcast",
+   "material_id": "content_nano_heaven_podcast",
+   "category": "Trending",
+   "style_id": "prompt_nano_heaven_podcast",
+   "premium": false
+  },
+  {
+   "style_name": "Bollywood Rain",
+   "material_id": "content_nano_bollywood_rain",
+   "category": "Trending",
+   "style_id": "prompt_nano_bollywood_rain",
+   "premium": false
+  },
+  {
+   "style_name": "Pastel Easter",
+   "material_id": "content_nano_pastel_easter",
+   "category": "Trending",
+   "style_id": "prompt_nano_pastel_easter",
+   "premium": false
+  },
+  {
+   "style_name": "Fantasy Easter",
+   "material_id": "content_nano_fantasy_easter",
+   "category": "Trending",
+   "style_id": "prompt_nano_fantasy_easter",
+   "premium": false
+  },
+  {
+   "style_name": "Wallpaper Minimal",
+   "material_id": "content_nano_wallpaper_2",
+   "category": "Trending",
+   "style_id": "prompt_nano_wallpaper_2",
+   "premium": false
+  },
+  {
+   "style_name": "Ballet Dream",
+   "material_id": "content_nano_ballet_dream",
+   "category": "Trending",
+   "style_id": "prompt_nano_ballet_dream",
+   "premium": false
+  },
+  {
+   "style_name": "Neon Shadow",
+   "material_id": "content_nano_neon_shadow",
+   "category": "Trending",
+   "style_id": "prompt_nano_neon_shadow",
+   "premium": false
+  },
+  {
+   "style_name": "Intimate Bedroom",
+   "material_id": "content_nano_intimate_bedroom",
+   "category": "Trending",
+   "style_id": "prompt_nano_intimate_bedroom",
+   "premium": false
+  },
+  {
+   "style_name": "Carnival Queen",
+   "material_id": "content_nano_carnival",
+   "category": "Trending",
+   "style_id": "prompt_nano_carnival",
+   "premium": false
+  },
+  {
+   "style_name": "Street Graffiti",
+   "material_id": "content_nano_drawstreet",
+   "category": "Trending",
+   "style_id": "prompt_nano_drawstreet",
+   "premium": false
+  },
+  {
+   "style_name": "Red Contrast",
+   "material_id": "content_nano_red_contrast",
+   "category": "Trending",
+   "style_id": "prompt_nano_red_contrast",
+   "premium": false
+  },
+  {
+   "style_name": "Heaven Love",
+   "material_id": "content_nano_heaven_love",
+   "category": "Trending",
+   "style_id": "prompt_nano_heaven_love",
+   "premium": false
+  },
+  {
+   "style_name": "Royal Portrait",
+   "material_id": "content_nano_royal_portrait",
+   "category": "Trending",
+   "style_id": "prompt_nano_royal_portrait",
+   "premium": false
+  },
+  {
+   "style_name": "Good Night",
+   "material_id": "content_nano_bed",
+   "category": "Trending",
+   "style_id": "prompt_nano_bed",
+   "premium": false
+  },
+  {
+   "style_name": "Rose Elegance",
+   "material_id": "content_nano_rose3",
+   "category": "Trending",
+   "style_id": "prompt_nano_rose3",
+   "premium": false
+  },
+  {
+   "style_name": "Blooming Lady",
+   "material_id": "content_nano_rose4",
+   "category": "Trending",
+   "style_id": "prompt_nano_rose4",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Rain",
+   "material_id": "content_nano_couple_rain",
+   "category": "Trending",
+   "style_id": "prompt_nano_couple_rain",
+   "premium": false
+  },
+  {
+   "style_name": "Rain",
+   "material_id": "content_nano_rain",
+   "category": "Trending",
+   "style_id": "prompt_nano_rain",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Rain Kiss",
+   "material_id": "content_nano_couple_rain_1",
+   "category": "Trending",
+   "style_id": "prompt_nano_couple_rain_1",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait New",
+   "material_id": "content_nano_portrait_7",
+   "category": "Trending",
+   "style_id": "prompt_nano_portrait_7",
+   "premium": false
+  },
+  {
+   "style_name": "Girl Portrait Soft",
+   "material_id": "content_nano_girl_portrait_5",
+   "category": "Trending",
+   "style_id": "prompt_nano_girl_portrait_5",
+   "premium": false
+  },
+  {
+   "style_name": "Girl Portrait Glow",
+   "material_id": "content_nano_girl_portrait_6",
+   "category": "Trending",
+   "style_id": "prompt_nano_girl_portrait_6",
+   "premium": false
+  },
+  {
+   "style_name": "Cartoon Portrait Blonde",
+   "material_id": "content_nano_cartoon_portrait_blonde",
+   "category": "Trending",
+   "style_id": "prompt_nano_cartoon_portrait_blonde",
+   "premium": false
+  },
+  {
+   "style_name": "Cartoon Portrait Brown",
+   "material_id": "content_nano_cartoon_portrait_brown",
+   "category": "Trending",
+   "style_id": "prompt_nano_cartoon_portrait_brown",
+   "premium": false
+  },
+  {
+   "style_name": "Cartoon Portrait Red",
+   "material_id": "content_nano_cartoon_portrait_red",
+   "category": "Trending",
+   "style_id": "prompt_nano_cartoon_portrait_red",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Natural",
+   "material_id": "content_nano_portrait_2",
+   "category": "Trending",
+   "style_id": "prompt_nano_portrait_2",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Portrait Romance",
+   "material_id": "content_nano_couple_portrait_3",
+   "category": "Trending",
+   "style_id": "prompt_nano_couple_portrait_3",
+   "premium": false
+  },
+  {
+   "style_name": "Forever 18",
+   "material_id": "content_nano_birthday1",
+   "category": "Trending",
+   "style_id": "prompt_nano_birthday1",
+   "premium": false
+  },
+  {
+   "style_name": "Baby Claus",
+   "material_id": "content_nano_baby_christmas",
+   "category": "Trending",
+   "style_id": "prompt_nano_baby_christmas",
+   "premium": false
+  },
+  {
+   "style_name": "Ramadan Lantern",
+   "material_id": "content_nano_ramadan_1",
+   "category": "Trending",
+   "style_id": "prompt_nano_ramadan_1",
+   "premium": false
+  },
+  {
+   "style_name": "Ramadan Night",
+   "material_id": "content_nano_ramadan_2",
+   "category": "Trending",
+   "style_id": "prompt_nano_ramadan_2",
+   "premium": false
+  },
+  {
+   "style_name": "Ramadan Mosque",
+   "material_id": "content_nano_ramadan_3",
+   "category": "Trending",
+   "style_id": "prompt_nano_ramadan_3",
+   "premium": false
+  },
+  {
+   "style_name": "Cupid Arrow",
+   "material_id": "content_nano_cupid_1",
+   "category": "Trending",
+   "style_id": "prompt_nano_cupid_1",
+   "premium": false
+  },
+  {
+   "style_name": "Cupid",
+   "material_id": "content_nano_cupid",
+   "category": "Trending",
+   "style_id": "prompt_nano_cupid",
+   "premium": false
+  },
+  {
+   "style_name": "Cupid Love",
+   "material_id": "content_nano_cupid_2",
+   "category": "Trending",
+   "style_id": "prompt_nano_cupid_2",
+   "premium": false
+  },
+  {
+   "style_name": "Neon Festival",
+   "material_id": "content_05102026_neon_festival_companion",
+   "category": "D��a de Muertos)",
+   "style_id": "prompt_05102026_neon_festival_companion",
+   "premium": false
+  },
+  {
+   "style_name": "Neon D��a",
+   "material_id": "content_14102026_day_of_dead_neon_companion",
+   "category": "D��a de Muertos)",
+   "style_id": "prompt_14102026_day_of_dead_neon_companion",
+   "premium": false
+  },
+  {
+   "style_name": "Sacred Altar",
+   "material_id": "content_14102026_day_of_dead_candle_altar",
+   "category": "D��a de Muertos)",
+   "style_id": "prompt_14102026_day_of_dead_candle_altar",
+   "premium": false
+  },
+  {
+   "style_name": "Neon Wings",
+   "material_id": "content_14102026_day_of_dead_neon_wing_portrait",
+   "category": "D��a de Muertos)",
+   "style_id": "prompt_14102026_day_of_dead_neon_wing_portrait",
+   "premium": false
+  },
+  {
+   "style_name": "Garba Night",
+   "material_id": "content_14102026_garba_festival_dandiya",
+   "category": "Navaratri",
+   "style_id": "prompt_14102026_garba_festival_dandiya",
+   "premium": false
+  },
+  {
+   "style_name": "Festive Jewels",
+   "material_id": "content_14102026_festive_jewelry_portrait",
+   "category": "Navaratri",
+   "style_id": "prompt_14102026_festive_jewelry_portrait",
+   "premium": false
+  },
+  {
+   "style_name": "Blue Glam",
+   "material_id": "content_14102026_blue_nail_jewelry_closeup",
+   "category": "Navaratri",
+   "style_id": "prompt_14102026_blue_nail_jewelry_closeup",
+   "premium": false
+  },
+  {
+   "style_name": "Pink Halloween",
+   "material_id": "content_14102026_pink_halloween_pumpkin_studio",
+   "category": "Halloween",
+   "style_id": "prompt_14102026_pink_halloween_pumpkin_studio",
+   "premium": false
+  },
+  {
+   "style_name": "Pumpkin Witch",
+   "material_id": "content_14102026_witch_pumpkin_throne",
+   "category": "Halloween",
+   "style_id": "prompt_14102026_witch_pumpkin_throne",
+   "premium": false
+  },
+  {
+   "style_name": "Midnight Witch",
+   "material_id": "content_moca_haloween_1",
+   "category": "Halloween",
+   "style_id": "prompt_moca_haloween_1",
+   "premium": false
+  },
+  {
+   "style_name": "Haunted Glam",
+   "material_id": "content_moca_haloween_2",
+   "category": "Halloween",
+   "style_id": "prompt_moca_haloween_2",
+   "premium": false
+  },
+  {
+   "style_name": "Pumpkin Spell",
+   "material_id": "content_moca_haloween_3",
+   "category": "Halloween",
+   "style_id": "prompt_moca_haloween_3",
+   "premium": false
+  },
+  {
+   "style_name": "Dark Masquerade",
+   "material_id": "content_moca_haloween_4",
+   "category": "Halloween",
+   "style_id": "prompt_moca_haloween_4",
+   "premium": false
+  },
+  {
+   "style_name": "Retro Superstar",
+   "material_id": "content_moca_80s_7",
+   "category": "80s Trend",
+   "style_id": "prompt_moca_80s_7",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_wc_brazil",
+   "category": "World Cup",
+   "style_id": "prompt_sola_wc_brazil",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_wc_argentina",
+   "category": "World Cup",
+   "style_id": "prompt_sola_wc_argentina",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_wc_mexico",
+   "category": "World Cup",
+   "style_id": "prompt_sola_wc_mexico",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_wc_usa",
+   "category": "World Cup",
+   "style_id": "prompt_sola_wc_usa",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_wc_england",
+   "category": "World Cup",
+   "style_id": "prompt_sola_wc_england",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_wc_portugal",
+   "category": "World Cup",
+   "style_id": "prompt_sola_wc_portugal",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_wc_france",
+   "category": "World Cup",
+   "style_id": "prompt_sola_wc_france",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_police_1",
+   "category": "Discover Now!!!",
+   "style_id": "prompt_sola_police_1",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_police_2",
+   "category": "Discover Now!!!",
+   "style_id": "prompt_sola_police_2",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_cartoon_family",
+   "category": "Discover Now!!!",
+   "style_id": "prompt_sola_cartoon_family",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_ocean_bg",
+   "category": "Discover Now!!!",
+   "style_id": "prompt_sola_ocean_bg",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_ocean_bg",
+   "category": "Discover Now!!!",
+   "style_id": "prompt_sola_ocean_bg",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_social_profile_1",
+   "category": "Discover Now!!!",
+   "style_id": "prompt_sola_social_profile_1",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_social_profile_2",
+   "category": "Discover Now!!!",
+   "style_id": "prompt_sola_social_profile_2",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_cricket_champion",
+   "category": "Discover Now!!!",
+   "style_id": "prompt_sola_cricket_champion",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_electric_football",
+   "category": "Discover Now!!!",
+   "style_id": "prompt_sola_electric_football",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_sola_collage_bw",
+   "category": "Discover Now!!!",
+   "style_id": "prompt_sola_collage_bw",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_pixie_cut",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_pixie_cut",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_box_braids",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_box_braids",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_wet_hair_look",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_wet_hair_look",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_afro_coils",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_afro_coils",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_straight_bob",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_straight_bob",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_long_layered_waves",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_long_layered_waves",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_messy_bun",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_messy_bun",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_buzz_cut",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_buzz_cut",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_cornrow_braids",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_cornrow_braids",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_slick_back",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_slick_back",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_dreadlocks",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_dreadlocks",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_butterfly_hair",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_butterfly_hair",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_spiral_curly",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_spiral_curly",
+   "premium": false
+  },
+  {
+   "style_name": "",
+   "material_id": "content_nano_wolf_cut",
+   "category": "Hair Studio",
+   "style_id": "prompt_nano_wolf_cut",
+   "premium": false
+  },
+  {
+   "style_name": "Sticker Pack",
+   "material_id": "content_sola_sticker_1",
+   "category": "Sticker",
+   "style_id": "prompt_sola_sticker_1",
+   "premium": false
+  },
+  {
+   "style_name": "Neon Throwback",
+   "material_id": "content_sola_retro_6",
+   "category": "Retro Vibe",
+   "style_id": "prompt_sola_retro_6",
+   "premium": false
+  },
+  {
+   "style_name": "Butterfly Dream",
+   "material_id": "content_sola_butterfly_3",
+   "category": "Butterfly Style",
+   "style_id": "prompt_sola_butterfly_3",
+   "premium": false
+  },
+  {
+   "style_name": "Doodle Vibe",
+   "material_id": "content_sola_doodle_1",
+   "category": "Doodle Style",
+   "style_id": "prompt_sola_doodle_1",
+   "premium": false
+  },
+  {
+   "style_name": "Baby Princess",
+   "material_id": "content_lyndi_baby1",
+   "category": "Baby Photo",
+   "style_id": "prompt_lyndi_baby1",
+   "premium": false
+  },
+  {
+   "style_name": "Neon Nostalgia",
+   "material_id": "content_moca_80s_1",
+   "category": "80s Trend",
+   "style_id": "prompt_moca_80s_1",
+   "premium": false
+  },
+  {
+   "style_name": "Hero Suit",
+   "material_id": "content_sola_spiderman",
+   "category": "Spider Hero",
+   "style_id": "prompt_sola_spiderman",
+   "premium": false
+  },
+  {
+   "style_name": "Hero Couple",
+   "material_id": "content_sola_spiderman_couple",
+   "category": "Spider Couple",
+   "style_id": "prompt_sola_spiderman_couple",
+   "premium": false
+  },
+  {
+   "style_name": "Black Elegance",
+   "material_id": "content_sola_black_dress",
+   "category": "Black Dress",
+   "style_id": "prompt_sola_black_dress",
+   "premium": false
+  },
+  {
+   "style_name": "Noir Couple",
+   "material_id": "content_sola_black_couple",
+   "category": "Black Couple",
+   "style_id": "prompt_sola_black_couple",
+   "premium": false
+  },
+  {
+   "style_name": "White Smoke",
+   "material_id": "content_sola_white_smoke",
+   "category": "White Smoke",
+   "style_id": "prompt_sola_white_smoke",
+   "premium": false
+  },
+  {
+   "style_name": "Fire Rose",
+   "material_id": "content_sola_rose_fire",
+   "category": "Fire Rose",
+   "style_id": "prompt_sola_rose_fire",
+   "premium": false
+  },
+  {
+   "style_name": "Rain Pose",
+   "material_id": "content_sola_rain_pose",
+   "category": "Rain Pose",
+   "style_id": "prompt_sola_rain_pose",
+   "premium": false
+  },
+  {
+   "style_name": "Dream Wedding",
+   "material_id": "content_sola_wedding",
+   "category": "Dream Wedding",
+   "style_id": "prompt_sola_wedding",
+   "premium": false
+  },
+  {
+   "style_name": "Vintage Love",
+   "material_id": "content_sola_vintage_couple",
+   "category": "Vintage Couple",
+   "style_id": "prompt_sola_vintage_couple",
+   "premium": false
+  },
+  {
+   "style_name": "Golden Bracelet",
+   "material_id": "content_sola_bracelet_v3",
+   "category": "Golden Bracelet",
+   "style_id": "prompt_sola_bracelet_v3",
+   "premium": false
+  },
+  {
+   "style_name": "Midnight Flash",
+   "material_id": "content_sola_flash_1",
+   "category": "Flash Glow",
+   "style_id": "prompt_sola_flash_1",
+   "premium": false
+  },
+  {
+   "style_name": "Violet Sunset",
+   "material_id": "content_sola_purple_retro_1",
+   "category": "Purple Retro",
+   "style_id": "prompt_sola_purple_retro_1",
+   "premium": false
+  },
+  {
+   "style_name": "Pink Velvet",
+   "material_id": "content_sola_pink_retro",
+   "category": "Pink Retro",
+   "style_id": "prompt_sola_pink_retro",
+   "premium": false
+  },
+  {
+   "style_name": "Sacred Lotus",
+   "material_id": "content_sola_radha_1",
+   "category": "Divine Radha",
+   "style_id": "prompt_sola_radha_1",
+   "premium": false
+  },
+  {
+   "style_name": "Paradise Wings",
+   "material_id": "content_sola_beach_butterfly_1",
+   "category": "Beach Butterfly",
+   "style_id": "prompt_sola_beach_butterfly_1",
+   "premium": false
+  },
+  {
+   "style_name": "Velocity Frames",
+   "material_id": "content_sola_motion_poster",
+   "category": "Motion Posters",
+   "style_id": "prompt_sola_motion_poster",
+   "premium": false
+  },
+  {
+   "style_name": "Cute Stickers",
+   "material_id": "content_sola_sticker_2",
+   "category": "Sticker",
+   "style_id": "prompt_sola_sticker_2",
+   "premium": false
+  },
+  {
+   "style_name": "Tiny Twin",
+   "material_id": "content_sola_mini_me",
+   "category": "Mini Me",
+   "style_id": "prompt_sola_mini_me",
+   "premium": false
+  },
+  {
+   "style_name": "Vintage Pulse",
+   "material_id": "content_sola_retro_7",
+   "category": "Retro Vibe",
+   "style_id": "prompt_sola_retro_7",
+   "premium": false
+  },
+  {
+   "style_name": "Winged Elegance",
+   "material_id": "content_sola_butterfly_4",
+   "category": "Butterfly Style",
+   "style_id": "prompt_sola_butterfly_4",
+   "premium": false
+  },
+  {
+   "style_name": "Sketch Play",
+   "material_id": "content_sola_doodle_2",
+   "category": "Doodle Style",
+   "style_id": "prompt_sola_doodle_2",
+   "premium": false
+  },
+  {
+   "style_name": "Baby Prince",
+   "material_id": "content_lyndi_baby2",
+   "category": "Baby Photo",
+   "style_id": "prompt_lyndi_baby2",
+   "premium": false
+  },
+  {
+   "style_name": "VHS Dream",
+   "material_id": "content_moca_80s_2",
+   "category": "80s Trend",
+   "style_id": "prompt_moca_80s_2",
+   "premium": false
+  },
+  {
+   "style_name": "Web Hero",
+   "material_id": "content_sola_spiderman",
+   "category": "Spider Hero",
+   "style_id": "prompt_sola_spiderman",
+   "premium": false
+  },
+  {
+   "style_name": "Spider Love",
+   "material_id": "content_sola_spiderman_couple",
+   "category": "Spider Couple",
+   "style_id": "prompt_sola_spiderman_couple",
+   "premium": false
+  },
+  {
+   "style_name": "Midnight Dress",
+   "material_id": "content_sola_black_dress",
+   "category": "Black Dress",
+   "style_id": "prompt_sola_black_dress",
+   "premium": false
+  },
+  {
+   "style_name": "Midnight Love",
+   "material_id": "content_sola_black_couple",
+   "category": "Black Couple",
+   "style_id": "prompt_sola_black_couple",
+   "premium": false
+  },
+  {
+   "style_name": "Mist Aura",
+   "material_id": "content_sola_white_smoke",
+   "category": "White Smoke",
+   "style_id": "prompt_sola_white_smoke",
+   "premium": false
+  },
+  {
+   "style_name": "Flame Bloom",
+   "material_id": "content_sola_rose_fire",
+   "category": "Fire Rose",
+   "style_id": "prompt_sola_rose_fire",
+   "premium": false
+  },
+  {
+   "style_name": "Rain Vibes",
+   "material_id": "content_sola_rain_pose",
+   "category": "Rain Pose",
+   "style_id": "prompt_sola_rain_pose",
+   "premium": false
+  },
+  {
+   "style_name": "Royal Wedding",
+   "material_id": "content_sola_wedding",
+   "category": "Dream Wedding",
+   "style_id": "prompt_sola_wedding",
+   "premium": false
+  },
+  {
+   "style_name": "Retro Romance",
+   "material_id": "content_sola_vintage_couple",
+   "category": "Vintage Couple",
+   "style_id": "prompt_sola_vintage_couple",
+   "premium": false
+  },
+  {
+   "style_name": "Luxury Bracelet",
+   "material_id": "content_sola_bracelet_v3",
+   "category": "Golden Bracelet",
+   "style_id": "prompt_sola_bracelet_v3",
+   "premium": false
+  },
+  {
+   "style_name": "Neon Spark",
+   "material_id": "content_sola_flash_2",
+   "category": "Flash Glow",
+   "style_id": "prompt_sola_flash_2",
+   "premium": false
+  },
+  {
+   "style_name": "Purple Neon",
+   "material_id": "content_sola_purple_retro_2",
+   "category": "Purple Retro",
+   "style_id": "prompt_sola_purple_retro_2",
+   "premium": false
+  },
+  {
+   "style_name": "Candy Neon",
+   "material_id": "content_sola_pink_retro",
+   "category": "Pink Retro",
+   "style_id": "prompt_sola_pink_retro",
+   "premium": false
+  },
+  {
+   "style_name": "Moonlight Radha",
+   "material_id": "content_sola_radha_2",
+   "category": "Divine Radha",
+   "style_id": "prompt_sola_radha_2",
+   "premium": false
+  },
+  {
+   "style_name": "Coastal Butterfly",
+   "material_id": "content_sola_beach_butterfly_2",
+   "category": "Beach Butterfly",
+   "style_id": "prompt_sola_beach_butterfly_2",
+   "premium": false
+  },
+  {
+   "style_name": "Motion Impact",
+   "material_id": "content_sola_motion_poster",
+   "category": "Motion Posters",
+   "style_id": "prompt_sola_motion_poster",
+   "premium": false
+  },
+  {
+   "style_name": "Sticker World",
+   "material_id": "content_sola_sticker_3",
+   "category": "Sticker",
+   "style_id": "prompt_sola_sticker_3",
+   "premium": false
+  },
+  {
+   "style_name": "Mini Twin",
+   "material_id": "content_sola_mini_me",
+   "category": "Mini Me",
+   "style_id": "prompt_sola_mini_me",
+   "premium": false
+  },
+  {
+   "style_name": "Retro Glow",
+   "material_id": "content_sola_retro_6",
+   "category": "Retro Vibe",
+   "style_id": "prompt_sola_retro_6",
+   "premium": false
+  },
+  {
+   "style_name": "Flutter Glow",
+   "material_id": "content_sola_butterfly_5",
+   "category": "Butterfly Style",
+   "style_id": "prompt_sola_butterfly_5",
+   "premium": false
+  },
+  {
+   "style_name": "Scribble Style",
+   "material_id": "content_sola_doodle_3",
+   "category": "Doodle Style",
+   "style_id": "prompt_sola_doodle_3",
+   "premium": false
+  },
+  {
+   "style_name": "Rainy",
+   "material_id": "content_lyndi_baby3",
+   "category": "Baby Photo",
+   "style_id": "prompt_lyndi_baby3",
+   "premium": false
+  },
+  {
+   "style_name": "Disco Flash",
+   "material_id": "content_moca_80s_3",
+   "category": "80s Trend",
+   "style_id": "prompt_moca_80s_3",
+   "premium": false
+  },
+  {
+   "style_name": "Spider Power",
+   "material_id": "content_sola_spiderman",
+   "category": "Spider Hero",
+   "style_id": "prompt_sola_spiderman",
+   "premium": false
+  },
+  {
+   "style_name": "Web Romance",
+   "material_id": "content_sola_spiderman_couple",
+   "category": "Spider Couple",
+   "style_id": "prompt_sola_spiderman_couple",
+   "premium": false
+  },
+  {
+   "style_name": "Velvet Noir",
+   "material_id": "content_sola_black_dress",
+   "category": "Black Dress",
+   "style_id": "prompt_sola_black_dress",
+   "premium": false
+  },
+  {
+   "style_name": "Elegant Pair",
+   "material_id": "content_sola_black_couple",
+   "category": "Black Couple",
+   "style_id": "prompt_sola_black_couple",
+   "premium": false
+  },
+  {
+   "style_name": "Dream Mist",
+   "material_id": "content_sola_white_smoke",
+   "category": "White Smoke",
+   "style_id": "prompt_sola_white_smoke",
+   "premium": false
+  },
+  {
+   "style_name": "Burning Rose",
+   "material_id": "content_sola_rose_fire",
+   "category": "Fire Rose",
+   "style_id": "prompt_sola_rose_fire",
+   "premium": false
+  },
+  {
+   "style_name": "Rain Charm",
+   "material_id": "content_sola_rain_pose",
+   "category": "Rain Pose",
+   "style_id": "prompt_sola_rain_pose",
+   "premium": false
+  },
+  {
+   "style_name": "Wedding Bliss",
+   "material_id": "content_sola_wedding",
+   "category": "Dream Wedding",
+   "style_id": "prompt_sola_wedding",
+   "premium": false
+  },
+  {
+   "style_name": "Classic Couple",
+   "material_id": "content_sola_vintage_couple",
+   "category": "Vintage Couple",
+   "style_id": "prompt_sola_vintage_couple",
+   "premium": false
+  },
+  {
+   "style_name": "Elegant Bracelet",
+   "material_id": "content_sola_bracelet_v3",
+   "category": "Golden Bracelet",
+   "style_id": "prompt_sola_bracelet_v3",
+   "premium": false
+  },
+  {
+   "style_name": "Crystal Beam",
+   "material_id": "content_sola_flash_1",
+   "category": "Flash Glow",
+   "style_id": "prompt_sola_flash_1",
+   "premium": false
+  },
+  {
+   "style_name": "Retro Mirage",
+   "material_id": "content_sola_purple_retro_1",
+   "category": "Purple Retro",
+   "style_id": "prompt_sola_purple_retro_1",
+   "premium": false
+  },
+  {
+   "style_name": "Rosewave",
+   "material_id": "content_sola_pink_retro",
+   "category": "Pink Retro",
+   "style_id": "prompt_sola_pink_retro",
+   "premium": false
+  },
+  {
+   "style_name": "Celestial Grace",
+   "material_id": "content_sola_radha_1",
+   "category": "Divine Radha",
+   "style_id": "prompt_sola_radha_1",
+   "premium": false
+  },
+  {
+   "style_name": "Ocean Breeze",
+   "material_id": "content_sola_beach_butterfly_1",
+   "category": "Beach Butterfly",
+   "style_id": "prompt_sola_beach_butterfly_1",
+   "premium": false
+  },
+  {
+   "style_name": "Cinematic Rush",
+   "material_id": "content_sola_motion_poster",
+   "category": "Motion Posters",
+   "style_id": "prompt_sola_motion_poster",
+   "premium": false
+  },
+  {
+   "style_name": "Tiny Replica",
+   "material_id": "content_sola_mini_me",
+   "category": "Mini Me",
+   "style_id": "prompt_sola_mini_me",
+   "premium": false
+  },
+  {
+   "style_name": "Throwback Energy",
+   "material_id": "content_sola_retro_7",
+   "category": "Retro Vibe",
+   "style_id": "prompt_sola_retro_7",
+   "premium": false
+  },
+  {
+   "style_name": "Ethereal Wings",
+   "material_id": "content_sola_butterfly_6",
+   "category": "Butterfly Style",
+   "style_id": "prompt_sola_butterfly_6",
+   "premium": false
+  },
+  {
+   "style_name": "Drawn Dreams",
+   "material_id": "content_sola_doodle_4",
+   "category": "Doodle Style",
+   "style_id": "prompt_sola_doodle_4",
+   "premium": false
+  },
+  {
+   "style_name": "Baby Portrait",
+   "material_id": "content_lyndi_baby4",
+   "category": "Baby Photo",
+   "style_id": "prompt_lyndi_baby4",
+   "premium": false
+  },
+  {
+   "style_name": "Arcade Glow",
+   "material_id": "content_moca_80s_4",
+   "category": "80s Trend",
+   "style_id": "prompt_moca_80s_4",
+   "premium": false
+  },
+  {
+   "style_name": "Hero Mask",
+   "material_id": "content_sola_spiderman",
+   "category": "Spider Hero",
+   "style_id": "prompt_sola_spiderman",
+   "premium": false
+  },
+  {
+   "style_name": "Dark Glamour",
+   "material_id": "content_sola_black_dress",
+   "category": "Black Dress",
+   "style_id": "prompt_sola_black_dress",
+   "premium": false
+  },
+  {
+   "style_name": "Cloud Veil",
+   "material_id": "content_sola_white_smoke",
+   "category": "White Smoke",
+   "style_id": "prompt_sola_white_smoke",
+   "premium": false
+  },
+  {
+   "style_name": "Rose Ember",
+   "material_id": "content_sola_rose_fire",
+   "category": "Fire Rose",
+   "style_id": "prompt_sola_rose_fire",
+   "premium": false
+  },
+  {
+   "style_name": "Wet Mood",
+   "material_id": "content_sola_rain_pose",
+   "category": "Rain Pose",
+   "style_id": "prompt_sola_rain_pose",
+   "premium": false
+  },
+  {
+   "style_name": "Charm Bracelet",
+   "material_id": "content_sola_bracelet_v3",
+   "category": "Golden Bracelet",
+   "style_id": "prompt_sola_bracelet_v3",
+   "premium": false
+  },
+  {
+   "style_name": "Electric Aura",
+   "material_id": "content_sola_flash_2",
+   "category": "Flash Glow",
+   "style_id": "prompt_sola_flash_2",
+   "premium": false
+  },
+  {
+   "style_name": "Dreamwave",
+   "material_id": "content_sola_purple_retro_2",
+   "category": "Purple Retro",
+   "style_id": "prompt_sola_purple_retro_2",
+   "premium": false
+  },
+  {
+   "style_name": "Retro Bloom",
+   "material_id": "content_sola_pink_retro",
+   "category": "Pink Retro",
+   "style_id": "prompt_sola_pink_retro",
+   "premium": false
+  },
+  {
+   "style_name": "Divine Harmony",
+   "material_id": "content_sola_radha_2",
+   "category": "Divine Radha",
+   "style_id": "prompt_sola_radha_2",
+   "premium": false
+  },
+  {
+   "style_name": "Golden Shore",
+   "material_id": "content_sola_beach_butterfly_2",
+   "category": "Beach Butterfly",
+   "style_id": "prompt_sola_beach_butterfly_2",
+   "premium": false
+  },
+  {
+   "style_name": "Dynamic Vision",
+   "material_id": "content_sola_motion_poster",
+   "category": "Motion Posters",
+   "style_id": "prompt_sola_motion_poster",
+   "premium": false
+  },
+  {
+   "style_name": "Pocket Twin",
+   "material_id": "content_sola_mini_me",
+   "category": "Mini Me",
+   "style_id": "prompt_sola_mini_me",
+   "premium": false
+  },
+  {
+   "style_name": "Classic Aura",
+   "material_id": "content_sola_retro_6",
+   "category": "Retro Vibe",
+   "style_id": "prompt_sola_retro_6",
+   "premium": false
+  },
+  {
+   "style_name": "Butterfly Aura",
+   "material_id": "content_sola_butterfly_7",
+   "category": "Butterfly Style",
+   "style_id": "prompt_sola_butterfly_7",
+   "premium": false
+  },
+  {
+   "style_name": "Creative Doodles",
+   "material_id": "content_sola_doodle_5",
+   "category": "Doodle Style",
+   "style_id": "prompt_sola_doodle_5",
+   "premium": false
+  },
+  {
+   "style_name": "Synthwave Nights",
+   "material_id": "content_moca_80s_5",
+   "category": "80s Trend",
+   "style_id": "prompt_moca_80s_5",
+   "premium": false
+  },
+  {
+   "style_name": "Blush Nostalgia",
+   "material_id": "content_sola_pink_retro",
+   "category": "Pink Retro",
+   "style_id": "prompt_sola_pink_retro",
+   "premium": false
+  },
+  {
+   "style_name": "Poster Energy",
+   "material_id": "content_sola_motion_poster",
+   "category": "Motion Posters",
+   "style_id": "prompt_sola_motion_poster",
+   "premium": false
+  },
+  {
+   "style_name": "Retro Wave",
+   "material_id": "content_sola_retro_7",
+   "category": "Retro Vibe",
+   "style_id": "prompt_sola_retro_7",
+   "premium": false
+  },
+  {
+   "style_name": "Electric Eighties",
+   "material_id": "content_moca_80s_6",
+   "category": "80s Trend",
+   "style_id": "prompt_moca_80s_6",
+   "premium": false
+  },
+  {
+   "style_name": "Love Canvas",
+   "material_id": "content_sola_couple_art_1",
+   "category": "Art Couple",
+   "style_id": "prompt_sola_couple_art_1",
+   "premium": false
+  },
+  {
+   "style_name": "Insta Ready",
+   "material_id": "content_sola_ig",
+   "category": "Crayon World",
+   "style_id": "prompt_sola_ig",
+   "premium": false
+  },
+  {
+   "style_name": "Mirror Mood",
+   "material_id": "content_sola_mirror_1",
+   "category": "Mirror Photo",
+   "style_id": "prompt_sola_mirror_1",
+   "premium": false
+  },
+  {
+   "style_name": "Art of Love",
+   "material_id": "content_sola_couple_art_2",
+   "category": "Art Couple",
+   "style_id": "prompt_sola_couple_art_2",
+   "premium": false
+  },
+  {
+   "style_name": "Southern Charm",
+   "material_id": "content_sola_south",
+   "category": "South India",
+   "style_id": "prompt_sola_south",
+   "premium": false
+  },
+  {
+   "style_name": "Memory Grid",
+   "material_id": "content_sola_collage",
+   "category": "Photo Collage",
+   "style_id": "prompt_sola_collage",
+   "premium": false
+  },
+  {
+   "style_name": "Profile Glow",
+   "material_id": "content_sola_ig",
+   "category": "Crayon World",
+   "style_id": "prompt_sola_ig",
+   "premium": false
+  },
+  {
+   "style_name": "Echo Frames",
+   "material_id": "content_sola_mirror_2",
+   "category": "Mirror Photo",
+   "style_id": "prompt_sola_mirror_2",
+   "premium": false
+  },
+  {
+   "style_name": "Childhood Dreams",
+   "material_id": "content_sola_childhood",
+   "category": "Childhood",
+   "style_id": "prompt_sola_childhood",
+   "premium": false
+  },
+  {
+   "style_name": "Creative Couple",
+   "material_id": "content_sola_couple_art_2",
+   "category": "Art Couple",
+   "style_id": "prompt_sola_couple_art_2",
+   "premium": false
+  },
+  {
+   "style_name": "South Heritage",
+   "material_id": "content_sola_south",
+   "category": "South India",
+   "style_id": "prompt_sola_south",
+   "premium": false
+  },
+  {
+   "style_name": "Memory Blend",
+   "material_id": "content_sola_collage",
+   "category": "Photo Collage",
+   "style_id": "prompt_sola_collage",
+   "premium": false
+  },
+  {
+   "style_name": "Crayon Dreams",
+   "material_id": "content_sola_crayon",
+   "category": "Crayon World",
+   "style_id": "prompt_sola_crayon",
+   "premium": false
+  },
+  {
+   "style_name": "Reflections",
+   "material_id": "content_sola_mirror_3",
+   "category": "Mirror Photo",
+   "style_id": "prompt_sola_mirror_3",
+   "premium": false
+  },
+  {
+   "style_name": "Golden Days",
+   "material_id": "content_sola_childhood",
+   "category": "Childhood",
+   "style_id": "prompt_sola_childhood",
+   "premium": false
+  },
+  {
+   "style_name": "Art Couple",
+   "material_id": "content_sola_couple_art_2",
+   "category": "Art Couple",
+   "style_id": "prompt_sola_couple_art_2",
+   "premium": false
+  },
+  {
+   "style_name": "Temple Vibes",
+   "material_id": "content_sola_south",
+   "category": "South India",
+   "style_id": "prompt_sola_south",
+   "premium": false
+  },
+  {
+   "style_name": "Photo Fusion",
+   "material_id": "content_sola_collage",
+   "category": "Photo Collage",
+   "style_id": "prompt_sola_collage",
+   "premium": false
+  },
+  {
+   "style_name": "Color Sketch",
+   "material_id": "content_sola_crayon",
+   "category": "Crayon World",
+   "style_id": "prompt_sola_crayon",
+   "premium": false
+  },
+  {
+   "style_name": "Tiny Adventures",
+   "material_id": "content_sola_childhood",
+   "category": "Childhood",
+   "style_id": "prompt_sola_childhood",
+   "premium": false
+  },
+  {
+   "style_name": "Southern Essence",
+   "material_id": "content_sola_south",
+   "category": "South India",
+   "style_id": "prompt_sola_south",
+   "premium": false
+  },
+  {
+   "style_name": "Moment Collage",
+   "material_id": "content_sola_collage",
+   "category": "Photo Collage",
+   "style_id": "prompt_sola_collage",
+   "premium": false
+  },
+  {
+   "style_name": "Crayon Fantasy",
+   "material_id": "content_sola_crayon",
+   "category": "Crayon World",
+   "style_id": "prompt_sola_crayon",
+   "premium": false
+  },
+  {
+   "style_name": "Forever Young",
+   "material_id": "content_sola_childhood",
+   "category": "Childhood",
+   "style_id": "prompt_sola_childhood",
+   "premium": false
+  },
+  {
+   "style_name": "Child in Me",
+   "material_id": "content_sola_childhood",
+   "category": "Childhood",
+   "style_id": "prompt_sola_childhood",
+   "premium": false
+  },
+  {
+   "style_name": "Collage Warm Romantic",
+   "material_id": "content_nano_collage_warm_romantic",
+   "category": "India Styles",
+   "style_id": "prompt_nano_collage_warm_romantic",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Bluefantasy",
+   "material_id": "content_nano_portrait_bluefantasy",
+   "category": "India Styles",
+   "style_id": "prompt_nano_portrait_bluefantasy",
+   "premium": false
+  },
+  {
+   "style_name": "Past Present Portrait",
+   "material_id": "content_sola_childhood",
+   "category": "India Styles",
+   "style_id": "prompt_sola_childhood",
+   "premium": false
+  },
+  {
+   "style_name": "Watercolor Couple",
+   "material_id": "content_sola_couple_art_1",
+   "category": "India Styles",
+   "style_id": "prompt_sola_couple_art_1",
+   "premium": false
+  },
+  {
+   "style_name": "Y2k Saree",
+   "material_id": "content_sola_south",
+   "category": "India Styles",
+   "style_id": "prompt_sola_south",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Golden Collage",
+   "material_id": "content_nano_couple_golden_collage",
+   "category": "India Styles",
+   "style_id": "prompt_nano_couple_golden_collage",
+   "premium": false
+  },
+  {
+   "style_name": "Poster Pastel Glam",
+   "material_id": "content_nano_poster_pastel_glam",
+   "category": "India Styles",
+   "style_id": "prompt_nano_poster_pastel_glam",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Warmcollage2",
+   "material_id": "content_nano_portrait_warmcollage2",
+   "category": "India Styles",
+   "style_id": "prompt_nano_portrait_warmcollage2",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Neutralveil",
+   "material_id": "content_nano_portrait_neutralveil",
+   "category": "India Styles",
+   "style_id": "prompt_nano_portrait_neutralveil",
+   "premium": false
+  },
+  {
+   "style_name": "Cricket Red Poster",
+   "material_id": "content_nano_cricket_red_poster",
+   "category": "India Styles",
+   "style_id": "prompt_nano_cricket_red_poster",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Blue Dream",
+   "material_id": "content_nano_portrait_blue_dream",
+   "category": "India Styles",
+   "style_id": "prompt_nano_portrait_blue_dream",
+   "premium": false
+  },
+  {
+   "style_name": "Firehero Skull",
+   "material_id": "content_nano_firehero_skull",
+   "category": "India Styles",
+   "style_id": "prompt_nano_firehero_skull",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Warmcollage",
+   "material_id": "content_nano_portrait_warmcollage",
+   "category": "India Styles",
+   "style_id": "prompt_nano_portrait_warmcollage",
+   "premium": false
+  },
+  {
+   "style_name": "Poster Teal Romantic",
+   "material_id": "content_nano_poster_teal_romantic",
+   "category": "India Styles",
+   "style_id": "prompt_nano_poster_teal_romantic",
+   "premium": false
+  },
+  {
+   "style_name": "Mirrorportrait Warmblue",
+   "material_id": "content_nano_mirrorportrait_warmblue",
+   "category": "India Styles",
+   "style_id": "prompt_nano_mirrorportrait_warmblue",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Purpledream",
+   "material_id": "content_nano_portrait_purpledream",
+   "category": "India Styles",
+   "style_id": "prompt_nano_portrait_purpledream",
+   "premium": false
+  },
+  {
+   "style_name": "Action Inferno Hero",
+   "material_id": "content_nano_action_inferno_hero",
+   "category": "India Styles",
+   "style_id": "prompt_nano_action_inferno_hero",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Amber Moody",
+   "material_id": "content_nano_portrait_amber_moody",
+   "category": "India Styles",
+   "style_id": "prompt_nano_portrait_amber_moody",
+   "premium": false
+  },
+  {
+   "style_name": "Sportsposter Purplegold",
+   "material_id": "content_nano_sportsposter_purplegold",
+   "category": "India Styles",
+   "style_id": "prompt_nano_sportsposter_purplegold",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Warm Collage",
+   "material_id": "content_nano_couple_warm_collage",
+   "category": "India Styles",
+   "style_id": "prompt_nano_couple_warm_collage",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Warmcollage",
+   "material_id": "content_nano_couple_warmcollage",
+   "category": "India Styles",
+   "style_id": "prompt_nano_couple_warmcollage",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Ambercollage",
+   "material_id": "content_nano_portrait_ambercollage",
+   "category": "India Styles",
+   "style_id": "prompt_nano_portrait_ambercollage",
+   "premium": false
+  },
+  {
+   "style_name": "Cricket Teal Poster",
+   "material_id": "content_nano_cricket_teal_poster",
+   "category": "India Styles",
+   "style_id": "prompt_nano_cricket_teal_poster",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Blue Mirror",
+   "material_id": "content_nano_portrait_blue_mirror",
+   "category": "India Styles",
+   "style_id": "prompt_nano_portrait_blue_mirror",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Reflection Blue",
+   "material_id": "content_nano_portrait_reflection_blue",
+   "category": "India Styles",
+   "style_id": "prompt_nano_portrait_reflection_blue",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Teal Fantasy",
+   "material_id": "content_nano_portrait_teal_fantasy",
+   "category": "India Styles",
+   "style_id": "prompt_nano_portrait_teal_fantasy",
+   "premium": false
+  },
+  {
+   "style_name": "Sportsposter Blueyellow",
+   "material_id": "content_nano_sportsposter_blueyellow",
+   "category": "India Styles",
+   "style_id": "prompt_nano_sportsposter_blueyellow",
+   "premium": false
+  },
+  {
+   "style_name": "Luna New Year Blossom",
+   "material_id": "content_nano_luna_new_year_1",
+   "category": "Luna New Year",
+   "style_id": "prompt_nano_luna_new_year_1",
+   "premium": false
+  },
+  {
+   "style_name": "Dark Magic",
+   "material_id": "content_nano_creepy",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_creepy",
+   "premium": false
+  },
+  {
+   "style_name": "WWII nurse",
+   "material_id": "content_nano_wwii_nurse",
+   "category": "Historical & Cultural",
+   "style_id": "prompt_nano_wwii_nurse",
+   "premium": false
+  },
+  {
+   "style_name": "Royalty",
+   "material_id": "content_nano_royalty",
+   "category": "Fantasy & Mythical",
+   "style_id": "prompt_nano_royalty",
+   "premium": false
+  },
+  {
+   "style_name": "Vogue",
+   "material_id": "content_nano_vogue",
+   "category": "Modern & Urban",
+   "style_id": "prompt_nano_vogue",
+   "premium": false
+  },
+  {
+   "style_name": "Marine Corps Ball",
+   "material_id": "content_nano_marine_corps_ball",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_marine_corps_ball",
+   "premium": false
+  },
+  {
+   "style_name": "Christmas in the suburbs",
+   "material_id": "content_nano_christmas_in_the_suburbs",
+   "category": "Nature & Travel",
+   "style_id": "prompt_nano_christmas_in_the_suburbs",
+   "premium": false
+  },
+  {
+   "style_name": "BW Family Classic",
+   "material_id": "content_nano_bw_family_1",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_bw_family_1",
+   "premium": false
+  },
+  {
+   "style_name": "Holi Splash",
+   "material_id": "content_nano_holi_women_1",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_1",
+   "premium": false
+  },
+  {
+   "style_name": "Gym Power",
+   "material_id": "content_nano_gym_1",
+   "category": "Iconic Looks",
+   "style_id": "prompt_nano_gym_1",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Rain",
+   "material_id": "content_nano_couple_rain",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_couple_rain",
+   "premium": false
+  },
+  {
+   "style_name": "Holding Face",
+   "material_id": "content_nano_holding_face",
+   "category": "Hot",
+   "style_id": "prompt_nano_holding_face",
+   "premium": false
+  },
+  {
+   "style_name": "Valentine Teddy Bear",
+   "material_id": "content_nano_woman_bed",
+   "category": "Couple & Valentine",
+   "style_id": "prompt_nano_woman_bed",
+   "premium": false
+  },
+  {
+   "style_name": "Qin Shi Huang",
+   "material_id": "content_nano_qin_shi_huang",
+   "category": "Record of Ragnarok",
+   "style_id": "prompt_nano_qin_shi_huang",
+   "premium": false
+  },
+  {
+   "style_name": "Xmas Friend",
+   "material_id": "content_nano_xmas_friend",
+   "category": "Christmas",
+   "style_id": "prompt_nano_xmas_friend",
+   "premium": false
+  },
+  {
+   "style_name": "Luna New Year Lantern",
+   "material_id": "content_nano_luna_new_year_2",
+   "category": "Luna New Year",
+   "style_id": "prompt_nano_luna_new_year_2",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Elegant",
+   "material_id": "content_nano_portrait_2",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_portrait_2",
+   "premium": false
+  },
+  {
+   "style_name": "Frontier",
+   "material_id": "content_nano_frontier",
+   "category": "Historical & Cultural",
+   "style_id": "prompt_nano_frontier",
+   "premium": false
+  },
+  {
+   "style_name": "Ballerina",
+   "material_id": "content_nano_ballerina",
+   "category": "Fantasy & Mythical",
+   "style_id": "prompt_nano_ballerina",
+   "premium": false
+  },
+  {
+   "style_name": "Y2K",
+   "material_id": "content_nano_y2k",
+   "category": "Modern & Urban",
+   "style_id": "prompt_nano_y2k",
+   "premium": false
+  },
+  {
+   "style_name": "Mountaintop",
+   "material_id": "content_nano_mountaintop",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_mountaintop",
+   "premium": false
+  },
+  {
+   "style_name": "Norwegian fjords",
+   "material_id": "content_nano_norwegian_fjords",
+   "category": "Nature & Travel",
+   "style_id": "prompt_nano_norwegian_fjords",
+   "premium": false
+  },
+  {
+   "style_name": "Bwsoft Portrait",
+   "material_id": "content_nano_bwsoft_portrait",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_bwsoft_portrait",
+   "premium": false
+  },
+  {
+   "style_name": "Holi Burst",
+   "material_id": "content_nano_holi_women_2",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_2",
+   "premium": false
+  },
+  {
+   "style_name": "Gym Training",
+   "material_id": "content_nano_gym_2",
+   "category": "Iconic Looks",
+   "style_id": "prompt_nano_gym_2",
+   "premium": false
+  },
+  {
+   "style_name": "Rain",
+   "material_id": "content_nano_rain",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_rain",
+   "premium": false
+  },
+  {
+   "style_name": "Sunset",
+   "material_id": "content_nano_sunset",
+   "category": "Hot",
+   "style_id": "prompt_nano_sunset",
+   "premium": false
+  },
+  {
+   "style_name": "Valentine Ballon",
+   "material_id": "content_nano_woman_ballon",
+   "category": "Couple & Valentine",
+   "style_id": "prompt_nano_woman_ballon",
+   "premium": false
+  },
+  {
+   "style_name": "Brunhilde",
+   "material_id": "content_nano_brunhilde",
+   "category": "Record of Ragnarok",
+   "style_id": "prompt_nano_brunhilde",
+   "premium": false
+  },
+  {
+   "style_name": "Xmas Lovers",
+   "material_id": "content_nano_xmas_lovers",
+   "category": "Christmas",
+   "style_id": "prompt_nano_xmas_lovers",
+   "premium": false
+  },
+  {
+   "style_name": "Luna New Year Fireworks",
+   "material_id": "content_nano_luna_new_year_3",
+   "category": "Luna New Year",
+   "style_id": "prompt_nano_luna_new_year_3",
+   "premium": false
+  },
+  {
+   "style_name": "Tiempos Felices",
+   "material_id": "content_nano_felices",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_felices",
+   "premium": false
+  },
+  {
+   "style_name": "Ancient Egypt",
+   "material_id": "content_nano_ancient_egypt",
+   "category": "Historical & Cultural",
+   "style_id": "prompt_nano_ancient_egypt",
+   "premium": false
+  },
+  {
+   "style_name": "Forest fairy",
+   "material_id": "content_nano_forest_fairy",
+   "category": "Fantasy & Mythical",
+   "style_id": "prompt_nano_forest_fairy",
+   "premium": false
+  },
+  {
+   "style_name": "Ghostface trend",
+   "material_id": "content_nano_ghostface_trend",
+   "category": "Modern & Urban",
+   "style_id": "prompt_nano_ghostface_trend",
+   "premium": false
+  },
+  {
+   "style_name": "Gondola",
+   "material_id": "content_nano_gondola",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_gondola",
+   "premium": false
+  },
+  {
+   "style_name": "Scuba diver",
+   "material_id": "content_nano_scuba_diver",
+   "category": "Nature & Travel",
+   "style_id": "prompt_nano_scuba_diver",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Graystudio",
+   "material_id": "content_nano_portrait_graystudio",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_portrait_graystudio",
+   "premium": false
+  },
+  {
+   "style_name": "Powder Man",
+   "material_id": "content_nano_holi_men_3",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_men_3",
+   "premium": false
+  },
+  {
+   "style_name": "Gym Bodybuilder",
+   "material_id": "content_nano_gym_3",
+   "category": "Iconic Looks",
+   "style_id": "prompt_nano_gym_3",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Rain Kiss",
+   "material_id": "content_nano_couple_rain_1",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_couple_rain_1",
+   "premium": false
+  },
+  {
+   "style_name": "Mid Autumn Lantern",
+   "material_id": "content_nano_trungthu1",
+   "category": "Hot",
+   "style_id": "prompt_nano_trungthu1",
+   "premium": false
+  },
+  {
+   "style_name": "Firework Valentine",
+   "material_id": "content_nano_rooftop_romance",
+   "category": "Couple & Valentine",
+   "style_id": "prompt_nano_rooftop_romance",
+   "premium": false
+  },
+  {
+   "style_name": "Budda",
+   "material_id": "content_nano_budda",
+   "category": "Record of Ragnarok",
+   "style_id": "prompt_nano_budda",
+   "premium": false
+  },
+  {
+   "style_name": "Baby Claus",
+   "material_id": "content_nano_baby_christmas",
+   "category": "Christmas",
+   "style_id": "prompt_nano_baby_christmas",
+   "premium": false
+  },
+  {
+   "style_name": "Luna New Year Dragon",
+   "material_id": "content_nano_luna_new_year_4",
+   "category": "Luna New Year",
+   "style_id": "prompt_nano_luna_new_year_4",
+   "premium": false
+  },
+  {
+   "style_name": "Selfie Mirror",
+   "material_id": "content_nano_selfie_1",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_selfie_1",
+   "premium": false
+  },
+  {
+   "style_name": "Medieval castle",
+   "material_id": "content_nano_medieval_castle",
+   "category": "Historical & Cultural",
+   "style_id": "prompt_nano_medieval_castle",
+   "premium": false
+  },
+  {
+   "style_name": "Film Noir",
+   "material_id": "content_nano_film_noir",
+   "category": "Fantasy & Mythical",
+   "style_id": "prompt_nano_film_noir",
+   "premium": false
+  },
+  {
+   "style_name": "Cafe in Paris",
+   "material_id": "content_nano_cafe_in_paris",
+   "category": "Modern & Urban",
+   "style_id": "prompt_nano_cafe_in_paris",
+   "premium": false
+  },
+  {
+   "style_name": "Sunflower field",
+   "material_id": "content_nano_sunflower_field",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_sunflower_field",
+   "premium": false
+  },
+  {
+   "style_name": "Butterfly field",
+   "material_id": "content_nano_butterfly_field",
+   "category": "Nature & Travel",
+   "style_id": "prompt_nano_butterfly_field",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Equestrian Mono",
+   "material_id": "content_nano_portrait_equestrian_mono",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_portrait_equestrian_mono",
+   "premium": false
+  },
+  {
+   "style_name": "Powder Holi",
+   "material_id": "content_nano_holi_women_3",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_3",
+   "premium": false
+  },
+  {
+   "style_name": "Black Elegant",
+   "material_id": "content_nano_black_1",
+   "category": "Iconic Looks",
+   "style_id": "prompt_nano_black_1",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Classic",
+   "material_id": "content_nano_portrait_7",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_portrait_7",
+   "premium": false
+  },
+  {
+   "style_name": "Wool",
+   "material_id": "content_nano_wool",
+   "category": "Hot",
+   "style_id": "prompt_nano_wool",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Proposal",
+   "material_id": "content_nano_proposal",
+   "category": "Couple & Valentine",
+   "style_id": "prompt_nano_proposal",
+   "premium": false
+  },
+  {
+   "style_name": "Hades",
+   "material_id": "content_nano_hades",
+   "category": "Record of Ragnarok",
+   "style_id": "prompt_nano_hades",
+   "premium": false
+  },
+  {
+   "style_name": "Santa Moment",
+   "material_id": "content_nano_santa_moment",
+   "category": "Christmas",
+   "style_id": "prompt_nano_santa_moment",
+   "premium": false
+  },
+  {
+   "style_name": "Luna New Year Fortune",
+   "material_id": "content_nano_luna_new_year_5",
+   "category": "Luna New Year",
+   "style_id": "prompt_nano_luna_new_year_5",
+   "premium": false
+  },
+  {
+   "style_name": "Sun Flower",
+   "material_id": "content_nano_sunflower",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_sunflower",
+   "premium": false
+  },
+  {
+   "style_name": "Roman empress",
+   "material_id": "content_nano_roman_empress",
+   "category": "Historical & Cultural",
+   "style_id": "prompt_nano_roman_empress",
+   "premium": false
+  },
+  {
+   "style_name": "Apocalypse",
+   "material_id": "content_nano_apocalypse",
+   "category": "Fantasy & Mythical",
+   "style_id": "prompt_nano_apocalypse",
+   "premium": false
+  },
+  {
+   "style_name": "Las Vegas sign",
+   "material_id": "content_nano_las_vegas_sign",
+   "category": "Modern & Urban",
+   "style_id": "prompt_nano_las_vegas_sign",
+   "premium": false
+  },
+  {
+   "style_name": "Mediterranean scene",
+   "material_id": "content_nano_mediterranean_scene",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_mediterranean_scene",
+   "premium": false
+  },
+  {
+   "style_name": "In a field at golden hour",
+   "material_id": "content_nano_in_a_field_at_golden_hour",
+   "category": "Nature & Travel",
+   "style_id": "prompt_nano_in_a_field_at_golden_hour",
+   "premium": false
+  },
+  {
+   "style_name": "Fashion Monochrome Columns3",
+   "material_id": "content_nano_fashion_monochrome_columns3",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_fashion_monochrome_columns3",
+   "premium": false
+  },
+  {
+   "style_name": "Holi Couple",
+   "material_id": "content_nano_holi_couple_1",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_couple_1",
+   "premium": false
+  },
+  {
+   "style_name": "Pink Man",
+   "material_id": "content_nano_pinkman",
+   "category": "Iconic Looks",
+   "style_id": "prompt_nano_pinkman",
+   "premium": false
+  },
+  {
+   "style_name": "Girl Portrait Elegant",
+   "material_id": "content_nano_girl_portrait_5",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_girl_portrait_5",
+   "premium": false
+  },
+  {
+   "style_name": "Bedroom Queen",
+   "material_id": "content_nano_bedroom",
+   "category": "Hot",
+   "style_id": "prompt_nano_bedroom",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Moon",
+   "material_id": "content_nano_couple_moon",
+   "category": "Couple & Valentine",
+   "style_id": "prompt_nano_couple_moon",
+   "premium": false
+  },
+  {
+   "style_name": "Herman Willem",
+   "material_id": "content_nano_herman_willem",
+   "category": "Record of Ragnarok",
+   "style_id": "prompt_nano_herman_willem",
+   "premium": false
+  },
+  {
+   "style_name": "Pet Clause",
+   "material_id": "content_nano_pet_claus",
+   "category": "Christmas",
+   "style_id": "prompt_nano_pet_claus",
+   "premium": false
+  },
+  {
+   "style_name": "Luna New Year Celebration",
+   "material_id": "content_nano_luna_new_year_6",
+   "category": "Luna New Year",
+   "style_id": "prompt_nano_luna_new_year_6",
+   "premium": false
+  },
+  {
+   "style_name": "Urban Shadow",
+   "material_id": "content_nano_urbanshadow",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_urbanshadow",
+   "premium": false
+  },
+  {
+   "style_name": "Titanic",
+   "material_id": "content_nano_titanic",
+   "category": "Historical & Cultural",
+   "style_id": "prompt_nano_titanic",
+   "premium": false
+  },
+  {
+   "style_name": "Alien world",
+   "material_id": "content_nano_alien_world",
+   "category": "Fantasy & Mythical",
+   "style_id": "prompt_nano_alien_world",
+   "premium": false
+  },
+  {
+   "style_name": "Lofi bedroom",
+   "material_id": "content_nano_lofi_bedroom",
+   "category": "Modern & Urban",
+   "style_id": "prompt_nano_lofi_bedroom",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Portrait Warm",
+   "material_id": "content_nano_couple_portrait_3",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_couple_portrait_3",
+   "premium": false
+  },
+  {
+   "style_name": "Boho field",
+   "material_id": "content_nano_boho_field",
+   "category": "Nature & Travel",
+   "style_id": "prompt_nano_boho_field",
+   "premium": false
+  },
+  {
+   "style_name": "Editorial Equestrian Mono",
+   "material_id": "content_nano_editorial_equestrian_mono",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_editorial_equestrian_mono",
+   "premium": false
+  },
+  {
+   "style_name": "Neon Holi",
+   "material_id": "content_nano_holi_women_4",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_4",
+   "premium": false
+  },
+  {
+   "style_name": "Black Dark",
+   "material_id": "content_nano_black_2",
+   "category": "Iconic Looks",
+   "style_id": "prompt_nano_black_2",
+   "premium": false
+  },
+  {
+   "style_name": "Girl Portrait Dream",
+   "material_id": "content_nano_girl_portrait_6",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_girl_portrait_6",
+   "premium": false
+  },
+  {
+   "style_name": "Bob Hair",
+   "material_id": "content_nano_bob_hair",
+   "category": "Hot",
+   "style_id": "prompt_nano_bob_hair",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Flower",
+   "material_id": "content_nano_couple_flower",
+   "category": "Couple & Valentine",
+   "style_id": "prompt_nano_couple_flower",
+   "premium": false
+  },
+  {
+   "style_name": "Maha Kuasa",
+   "material_id": "content_nano_maha_kuasa",
+   "category": "Record of Ragnarok",
+   "style_id": "prompt_nano_maha_kuasa",
+   "premium": false
+  },
+  {
+   "style_name": "Family Xmas",
+   "material_id": "content_nano_family_xmas",
+   "category": "Christmas",
+   "style_id": "prompt_nano_family_xmas",
+   "premium": false
+  },
+  {
+   "style_name": "Luna New Year Spring",
+   "material_id": "content_nano_luna_new_year_7",
+   "category": "Luna New Year",
+   "style_id": "prompt_nano_luna_new_year_7",
+   "premium": false
+  },
+  {
+   "style_name": "Cartoon Portrait Red",
+   "material_id": "content_nano_cartoon_portrait_red",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_cartoon_portrait_red",
+   "premium": false
+  },
+  {
+   "style_name": "Native American",
+   "material_id": "content_nano_native_american",
+   "category": "Historical & Cultural",
+   "style_id": "prompt_nano_native_american",
+   "premium": false
+  },
+  {
+   "style_name": "The Lovers Tarot Card",
+   "material_id": "content_nano_the_lovers_tarot_card",
+   "category": "Fantasy & Mythical",
+   "style_id": "prompt_nano_the_lovers_tarot_card",
+   "premium": false
+  },
+  {
+   "style_name": "Clean girl",
+   "material_id": "content_nano_clean_girl",
+   "category": "Modern & Urban",
+   "style_id": "prompt_nano_clean_girl",
+   "premium": false
+  },
+  {
+   "style_name": "New York at night",
+   "material_id": "content_nano_new_york_at_night",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_new_york_at_night",
+   "premium": false
+  },
+  {
+   "style_name": "In the snow at night",
+   "material_id": "content_nano_in_the_snow_at_night",
+   "category": "Nature & Travel",
+   "style_id": "prompt_nano_in_the_snow_at_night",
+   "premium": false
+  },
+  {
+   "style_name": "Fashion Monochrome Columns2",
+   "material_id": "content_nano_fashion_monochrome_columns2",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_fashion_monochrome_columns2",
+   "premium": false
+  },
+  {
+   "style_name": "Red Hero",
+   "material_id": "content_nano_red_hero_1",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_red_hero_1",
+   "premium": false
+  },
+  {
+   "style_name": "Black King",
+   "material_id": "content_nano_black_3",
+   "category": "Iconic Looks",
+   "style_id": "prompt_nano_black_3",
+   "premium": false
+  },
+  {
+   "style_name": "Cartoon Portrait Blonde",
+   "material_id": "content_nano_cartoon_portrait_blonde",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_cartoon_portrait_blonde",
+   "premium": false
+  },
+  {
+   "style_name": "Red Mirror",
+   "material_id": "content_nano_red_mirror",
+   "category": "Hot",
+   "style_id": "prompt_nano_red_mirror",
+   "premium": false
+  },
+  {
+   "style_name": "Banzai",
+   "material_id": "content_nano_banzai",
+   "category": "Record of Ragnarok",
+   "style_id": "prompt_nano_banzai",
+   "premium": false
+  },
+  {
+   "style_name": "Festive Girl",
+   "material_id": "content_nano_christmas_7",
+   "category": "Christmas",
+   "style_id": "prompt_nano_christmas_7",
+   "premium": false
+  },
+  {
+   "style_name": "Luna New Year Reunion",
+   "material_id": "content_nano_luna_new_year_8",
+   "category": "Luna New Year",
+   "style_id": "prompt_nano_luna_new_year_8",
+   "premium": false
+  },
+  {
+   "style_name": "Dia de los Angelitos",
+   "material_id": "content_nano_angelitos",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_angelitos",
+   "premium": false
+  },
+  {
+   "style_name": "Goddess",
+   "material_id": "content_nano_goddess",
+   "category": "Historical & Cultural",
+   "style_id": "prompt_nano_goddess",
+   "premium": false
+  },
+  {
+   "style_name": "Dragon",
+   "material_id": "content_nano_dragon",
+   "category": "Fantasy & Mythical",
+   "style_id": "prompt_nano_dragon",
+   "premium": false
+  },
+  {
+   "style_name": "Cyberpunk neon",
+   "material_id": "content_nano_cyberpunk_neon",
+   "category": "Modern & Urban",
+   "style_id": "prompt_nano_cyberpunk_neon",
+   "premium": false
+  },
+  {
+   "style_name": "Rome",
+   "material_id": "content_nano_rome",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_rome",
+   "premium": false
+  },
+  {
+   "style_name": "Flower field",
+   "material_id": "content_nano_flower_field",
+   "category": "Nature & Travel",
+   "style_id": "prompt_nano_flower_field",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Monochrome Intimate",
+   "material_id": "content_nano_couple_monochrome_intimate",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_couple_monochrome_intimate",
+   "premium": false
+  },
+  {
+   "style_name": "Holi Man",
+   "material_id": "content_nano_holi_men_1",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_men_1",
+   "premium": false
+  },
+  {
+   "style_name": "Cartoon Portrait Brown",
+   "material_id": "content_nano_cartoon_portrait_brown",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_cartoon_portrait_brown",
+   "premium": false
+  },
+  {
+   "style_name": "Rose & Black",
+   "material_id": "content_nano_rose1",
+   "category": "Hot",
+   "style_id": "prompt_nano_rose1",
+   "premium": false
+  },
+  {
+   "style_name": "Royal General",
+   "material_id": "content_nano_royal_general",
+   "category": "Record of Ragnarok",
+   "style_id": "prompt_nano_royal_general",
+   "premium": false
+  },
+  {
+   "style_name": "Beach",
+   "material_id": "content_nano_beach",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_beach",
+   "premium": false
+  },
+  {
+   "style_name": "Turkish Market",
+   "material_id": "content_nano_turkish_market",
+   "category": "Historical & Cultural",
+   "style_id": "prompt_nano_turkish_market",
+   "premium": false
+  },
+  {
+   "style_name": "Modern witch",
+   "material_id": "content_nano_modern_witch",
+   "category": "Fantasy & Mythical",
+   "style_id": "prompt_nano_modern_witch",
+   "premium": false
+  },
+  {
+   "style_name": "Photo booth strip",
+   "material_id": "content_nano_photo_booth_strip",
+   "category": "Modern & Urban",
+   "style_id": "prompt_nano_photo_booth_strip",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Black White",
+   "material_id": "content_nano_couple_black_white",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_couple_black_white",
+   "premium": false
+  },
+  {
+   "style_name": "Milky Way",
+   "material_id": "content_nano_milky_way",
+   "category": "Nature & Travel",
+   "style_id": "prompt_nano_milky_way",
+   "premium": false
+  },
+  {
+   "style_name": "Monochrome Soft Light",
+   "material_id": "content_nano_bw_1",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_bw_1",
+   "premium": false
+  },
+  {
+   "style_name": "Festival Man",
+   "material_id": "content_nano_holi_men_2",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_men_2",
+   "premium": false
+  },
+  {
+   "style_name": "Cartoon Portrait Red",
+   "material_id": "content_nano_cartoon_portrait_red",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_cartoon_portrait_red",
+   "premium": false
+  },
+  {
+   "style_name": "Ghost Face",
+   "material_id": "content_nano_ghostface",
+   "category": "Hot",
+   "style_id": "prompt_nano_ghostface",
+   "premium": false
+  },
+  {
+   "style_name": "Shimo Hayha",
+   "material_id": "content_nano_shimo_hayha",
+   "category": "Record of Ragnarok",
+   "style_id": "prompt_nano_shimo_hayha",
+   "premium": false
+  },
+  {
+   "style_name": "Cartoon Portrait Blonde",
+   "material_id": "content_nano_cartoon_portrait_blonde",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_cartoon_portrait_blonde",
+   "premium": false
+  },
+  {
+   "style_name": "Germanic woman",
+   "material_id": "content_nano_germanic_woman",
+   "category": "Historical & Cultural",
+   "style_id": "prompt_nano_germanic_woman",
+   "premium": false
+  },
+  {
+   "style_name": "Mermaid",
+   "material_id": "content_nano_mermaid",
+   "category": "Fantasy & Mythical",
+   "style_id": "prompt_nano_mermaid",
+   "premium": false
+  },
+  {
+   "style_name": "On Hollywood sign",
+   "material_id": "content_nano_on_hollywood_sign",
+   "category": "Modern & Urban",
+   "style_id": "prompt_nano_on_hollywood_sign",
+   "premium": false
+  },
+  {
+   "style_name": "Wedding",
+   "material_id": "content_nano_wedding",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_wedding",
+   "premium": false
+  },
+  {
+   "style_name": "Hawaii",
+   "material_id": "content_nano_hawaii",
+   "category": "Nature & Travel",
+   "style_id": "prompt_nano_hawaii",
+   "premium": false
+  },
+  {
+   "style_name": "BW Family Generations",
+   "material_id": "content_nano_bw_family_4",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_bw_family_4",
+   "premium": false
+  },
+  {
+   "style_name": "Holi Storm",
+   "material_id": "content_nano_holi_women_5",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_5",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Soft",
+   "material_id": "content_nano_portrait_2",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_portrait_2",
+   "premium": false
+  },
+  {
+   "style_name": "Hong Kong",
+   "material_id": "content_nano_hongkong",
+   "category": "Hot",
+   "style_id": "prompt_nano_hongkong",
+   "premium": false
+  },
+  {
+   "style_name": "Si Yao Yao",
+   "material_id": "content_nano_si_yao_yao",
+   "category": "Record of Ragnarok",
+   "style_id": "prompt_nano_si_yao_yao",
+   "premium": false
+  },
+  {
+   "style_name": "Cartoon Portrait Brown",
+   "material_id": "content_nano_cartoon_portrait_brown",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_cartoon_portrait_brown",
+   "premium": false
+  },
+  {
+   "style_name": "Viking",
+   "material_id": "content_nano_viking",
+   "category": "Historical & Cultural",
+   "style_id": "prompt_nano_viking",
+   "premium": false
+  },
+  {
+   "style_name": "Atlantis",
+   "material_id": "content_nano_atlantis",
+   "category": "Fantasy & Mythical",
+   "style_id": "prompt_nano_atlantis",
+   "premium": false
+  },
+  {
+   "style_name": "Dancing in a city at night",
+   "material_id": "content_nano_dancing_in_a_city_at_night",
+   "category": "Modern & Urban",
+   "style_id": "prompt_nano_dancing_in_a_city_at_night",
+   "premium": false
+  },
+  {
+   "style_name": "Tea garden in a monsoon",
+   "material_id": "content_nano_tea_garden_in_a_monsoon",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_tea_garden_in_a_monsoon",
+   "premium": false
+  },
+  {
+   "style_name": "Monochrome Deep Tone",
+   "material_id": "content_nano_bw_2",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_bw_2",
+   "premium": false
+  },
+  {
+   "style_name": "Holi Portrait",
+   "material_id": "content_nano_holi_women_6",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_6",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Portrait Sweet",
+   "material_id": "content_nano_couple_portrait_3",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_couple_portrait_3",
+   "premium": false
+  },
+  {
+   "style_name": "Flower",
+   "material_id": "content_nano_flower",
+   "category": "Hot",
+   "style_id": "prompt_nano_flower",
+   "premium": false
+  },
+  {
+   "style_name": "Zack The Zipper",
+   "material_id": "content_nano_zack_the_zipper",
+   "category": "Record of Ragnarok",
+   "style_id": "prompt_nano_zack_the_zipper",
+   "premium": false
+  },
+  {
+   "style_name": "Sketch Line Art",
+   "material_id": "content_nano_sketch_2",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_sketch_2",
+   "premium": false
+  },
+  {
+   "style_name": "Cottagecore",
+   "material_id": "content_nano_cottagecore",
+   "category": "Historical & Cultural",
+   "style_id": "prompt_nano_cottagecore",
+   "premium": false
+  },
+  {
+   "style_name": "In a library",
+   "material_id": "content_nano_in_a_library",
+   "category": "Modern & Urban",
+   "style_id": "prompt_nano_in_a_library",
+   "premium": false
+  },
+  {
+   "style_name": "Beach at sunset",
+   "material_id": "content_nano_beach_at_sunset",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_beach_at_sunset",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Monochrome Editorial",
+   "material_id": "content_nano_couple_monochrome_editorial",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_couple_monochrome_editorial",
+   "premium": false
+  },
+  {
+   "style_name": "Holi Dust",
+   "material_id": "content_nano_holi_women_7",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_7",
+   "premium": false
+  },
+  {
+   "style_name": "Wedding Day",
+   "material_id": "content_nano_wedding",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_wedding",
+   "premium": false
+  },
+  {
+   "style_name": "Pirate Wanted Poster",
+   "material_id": "content_nano_wantedposter",
+   "category": "Hot",
+   "style_id": "prompt_nano_wantedposter",
+   "premium": false
+  },
+  {
+   "style_name": "Tarot Card",
+   "material_id": "content_nano_tarotcard",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_tarotcard",
+   "premium": false
+  },
+  {
+   "style_name": "Paris",
+   "material_id": "content_nano_paris",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_paris",
+   "premium": false
+  },
+  {
+   "style_name": "BW Family Studio",
+   "material_id": "content_nano_bw_family_2",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_bw_family_2",
+   "premium": false
+  },
+  {
+   "style_name": "Vibrant Holi",
+   "material_id": "content_nano_holi_women_8",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_8",
+   "premium": false
+  },
+  {
+   "style_name": "Wedding",
+   "material_id": "content_nano_wedding",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_wedding",
+   "premium": false
+  },
+  {
+   "style_name": "Graffiti Street New",
+   "material_id": "content_nano_graffiti_5",
+   "category": "Hot",
+   "style_id": "prompt_nano_graffiti_5",
+   "premium": false
+  },
+  {
+   "style_name": "Gathered Hair",
+   "material_id": "content_nano_gathered_hair",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_gathered_hair",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Rain Hug",
+   "material_id": "content_nano_couple_rain_1",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_couple_rain_1",
+   "premium": false
+  },
+  {
+   "style_name": "Horse Editorial Monochrome",
+   "material_id": "content_nano_horse_editorial_monochrome",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_horse_editorial_monochrome",
+   "premium": false
+  },
+  {
+   "style_name": "Powder Face",
+   "material_id": "content_nano_holi_women_9",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_9",
+   "premium": false
+  },
+  {
+   "style_name": "Forever 18",
+   "material_id": "content_nano_birthday1",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_birthday1",
+   "premium": false
+  },
+  {
+   "style_name": "Girl Portrait Natural",
+   "material_id": "content_nano_girl_portrait_6",
+   "category": "Hot",
+   "style_id": "prompt_nano_girl_portrait_6",
+   "premium": false
+  },
+  {
+   "style_name": "Desert",
+   "material_id": "content_nano_desert",
+   "category": "Nano Banana",
+   "style_id": "prompt_nano_desert",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Moon",
+   "material_id": "content_nano_couple_moon",
+   "category": "Romantic & Couple",
+   "style_id": "prompt_nano_couple_moon",
+   "premium": false
+  },
+  {
+   "style_name": "Editorial Equestrian Mono2",
+   "material_id": "content_nano_editorial_equestrian_mono2",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_editorial_equestrian_mono2",
+   "premium": false
+  },
+  {
+   "style_name": "Holi Vibe",
+   "material_id": "content_nano_holi_women_10",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_10",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Moon",
+   "material_id": "content_nano_couple_moon",
+   "category": "Lifestyle",
+   "style_id": "prompt_nano_couple_moon",
+   "premium": false
+  },
+  {
+   "style_name": "Figure Artistic",
+   "material_id": "content_nano_figure_5",
+   "category": "Hot",
+   "style_id": "prompt_nano_figure_5",
+   "premium": false
+  },
+  {
+   "style_name": "Monochrome High Key",
+   "material_id": "content_nano_bw_3",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_bw_3",
+   "premium": false
+  },
+  {
+   "style_name": "Festival Holi",
+   "material_id": "content_nano_holi_women_11",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_11",
+   "premium": false
+  },
+  {
+   "style_name": "Monochrome Low Key",
+   "material_id": "content_nano_bw_4",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_bw_4",
+   "premium": false
+  },
+  {
+   "style_name": "Studio Holi",
+   "material_id": "content_nano_holi_women_12",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_12",
+   "premium": false
+  },
+  {
+   "style_name": "Monochrome Film Look",
+   "material_id": "content_nano_bw_5",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_bw_5",
+   "premium": false
+  },
+  {
+   "style_name": "Soft Holi",
+   "material_id": "content_nano_holi_women_13",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_13",
+   "premium": false
+  },
+  {
+   "style_name": "Gothic Stairs Bw",
+   "material_id": "content_nano_gothic_stairs_bw",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_gothic_stairs_bw",
+   "premium": false
+  },
+  {
+   "style_name": "Dramatic Holi",
+   "material_id": "content_nano_holi_women_14",
+   "category": "Holi Festival",
+   "style_id": "prompt_nano_holi_women_14",
+   "premium": false
+  },
+  {
+   "style_name": "Monochrome Fine Art",
+   "material_id": "content_nano_bw_6",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_bw_6",
+   "premium": false
+  },
+  {
+   "style_name": "Monochrome Editorial",
+   "material_id": "content_nano_bw_7",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_bw_7",
+   "premium": false
+  },
+  {
+   "style_name": "Fashion Monochrome Columns",
+   "material_id": "content_nano_fashion_monochrome_columns",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_fashion_monochrome_columns",
+   "premium": false
+  },
+  {
+   "style_name": "Fashion Gothic Columns",
+   "material_id": "content_nano_fashion_gothic_columns",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_fashion_gothic_columns",
+   "premium": false
+  },
+  {
+   "style_name": "Fashion Gothic Bw",
+   "material_id": "content_nano_fashion_gothic_bw",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_fashion_gothic_bw",
+   "premium": false
+  },
+  {
+   "style_name": "BW Family Group",
+   "material_id": "content_nano_bw_family_3",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_bw_family_3",
+   "premium": false
+  },
+  {
+   "style_name": "Portrait Monoody",
+   "material_id": "content_nano_portrait_monoody",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_portrait_monoody",
+   "premium": false
+  },
+  {
+   "style_name": "Couple Romantic Bw",
+   "material_id": "content_nano_couple_romantic_bw",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_couple_romantic_bw",
+   "premium": false
+  },
+  {
+   "style_name": "Steps Luxury Monochrome",
+   "material_id": "content_nano_steps_luxury_monochrome",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_steps_luxury_monochrome",
+   "premium": false
+  },
+  {
+   "style_name": "Equestrian Moody Bw",
+   "material_id": "content_nano_equestrian_moody_bw",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_equestrian_moody_bw",
+   "premium": false
+  },
+  {
+   "style_name": "Editorial Horse Mono2",
+   "material_id": "content_nano_editorial_horse_mono2",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_editorial_horse_mono2",
+   "premium": false
+  },
+  {
+   "style_name": "Editorial Horse Mono",
+   "material_id": "content_nano_editorial_horse_mono",
+   "category": "Monochrome",
+   "style_id": "prompt_nano_editorial_horse_mono",
+   "premium": false
+  }
+ ],
+ "banner_styles": [
+  {
+   "style_name": "Jungle Wild",
+   "material_id": "content_sola_jungle",
+   "style_id": "prompt_sola_jungle"
+  },
+  {
+   "style_name": "France Fan",
+   "material_id": "content_nano_wc_france_1",
+   "style_id": "prompt_wc_france"
+  },
+  {
+   "style_name": "Sunrise Glow",
+   "material_id": "content_sola_sunrise",
+   "style_id": "prompt_sola_sunrise"
+  }
+ ],
+ "enhance_models": [
+  {
+   "style_name": "Enhance Image",
+   "material_id": "content_enhance_image",
+   "model_type": "v_fuse"
+  }
+ ],
+ "background_models": [
+  {
+   "style_name": "White Embroidered Eyelet Dress",
+   "material_id": "content_nano_background_1_1",
+   "model_type": "v_fuse"
+  },
+  {
+   "style_name": "Soft Sunset Glow",
+   "material_id": "content_nano_background_1_2",
+   "model_type": "v_fuse"
+  },
+  {
+   "style_name": "Dark Academia Ribbed Knit",
+   "material_id": "content_nano_background_1_3",
+   "model_type": "v_fuse"
+  },
+  {
+   "style_name": "Minimalist Urban Elegance",
+   "material_id": "content_nano_background_1_4",
+   "model_type": "v_fuse"
+  },
+  {
+   "style_name": "Classic Winter Elegance",
+   "material_id": "content_nano_background_1_5",
+   "model_type": "v_fuse"
+  },
+  {
+   "style_name": "Rustic Farmhouse Chic",
+   "material_id": "content_nano_background_1_6",
+   "model_type": "v_fuse"
+  }
+ ],
+ "video_templates": [
+  {
+   "cat": "Trending",
+   "style": "Explosion",
+   "video_prompt": "video_balcony_gesture_blast",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Blasting Trend",
+   "video_prompt": "video_field_gesture_blast",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Bridge Serenity",
+   "video_prompt": "video_bridge_arch_sit",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Brooklyn Stroll",
+   "video_prompt": "video_brooklyn_bridge_walk",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Nail Glam Reveal",
+   "video_prompt": "video_car_nail_reveal",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Goat Surprise",
+   "video_prompt": "video_classroom_goat_reveal",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Party Spin",
+   "video_prompt": "video_party_rotating_portrait",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Flying Car",
+   "video_prompt": "video_desert_jeep_jump",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Body Effect",
+   "video_prompt": "video_bw_selfie_doodle",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Fan Trending",
+   "video_prompt": "video_overhead_fan_traditional",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Hottel Lobby",
+   "video_prompt": "video_orange_studio_performance",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Death Festival",
+   "video_prompt": "video_motion",
+   "image_prompt": "05102026_firework_candle_path"
+  },
+  {
+   "cat": "Trending",
+   "style": "Car Drive",
+   "video_prompt": "video_driving_car",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Garden Romance",
+   "video_prompt": "video_motion",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Love in Bloom",
+   "video_prompt": "video_motion",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Birthday Glow",
+   "video_prompt": "video_birthday",
+   "image_prompt": "sola_birthday"
+  },
+  {
+   "cat": "Trending",
+   "style": "Baseball",
+   "video_prompt": "video_motion",
+   "image_prompt": "sola_baseball"
+  },
+  {
+   "cat": "Trending",
+   "style": "Tulip",
+   "video_prompt": "video_motion",
+   "image_prompt": "sola_tulip_1"
+  },
+  {
+   "cat": "Trending",
+   "style": "Giant Dog Generated",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_giant_dog"
+  },
+  {
+   "cat": "Trending",
+   "style": "Heaven Love",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_heaven_love"
+  },
+  {
+   "cat": "Trending",
+   "style": "yellow_soul",
+   "video_prompt": "nano_yellow_soul",
+   "image_prompt": "video_motion"
+  },
+  {
+   "cat": "Trending",
+   "style": "Giant Cat",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_giant_cat"
+  },
+  {
+   "cat": "Trending",
+   "style": "Pet Heaven",
+   "video_prompt": "nano_pet_heaven",
+   "image_prompt": "nano_pet_heaven_1"
+  },
+  {
+   "cat": "Trending",
+   "style": "Warrior",
+   "video_prompt": "video_warrior",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Cool Hair",
+   "video_prompt": "video_hair",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Baby Monster",
+   "video_prompt": "video_fight_baby",
+   "image_prompt": "nano_baby_gorilla"
+  },
+  {
+   "cat": "Trending",
+   "style": "Tente Girl",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_tente_1"
+  },
+  {
+   "cat": "Trending",
+   "style": "Tente Boy",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_tente_2"
+  },
+  {
+   "cat": "Trending",
+   "style": "Hollywood",
+   "video_prompt": "video_zoolander",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Carnival girl",
+   "video_prompt": "video_holi_india",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Draw Yourself",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_drawself"
+  },
+  {
+   "cat": "Trending",
+   "style": "Kamen Rider",
+   "video_prompt": "video_kamen_girl",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Ballet Dance",
+   "video_prompt": "video_ballet_dancing",
+   "image_prompt": "nano_ballet"
+  },
+  {
+   "cat": "Trending",
+   "style": "Animal Ballet",
+   "video_prompt": "video_ballet_dancing",
+   "image_prompt": "nano_animal_ballet"
+  },
+  {
+   "cat": "Trending",
+   "style": "AI Comic 1",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_tiny_adventure_1"
+  },
+  {
+   "cat": "Trending",
+   "style": "AI Comic 2",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_tiny_adventure_2"
+  },
+  {
+   "cat": "Trending",
+   "style": "Mini Motors",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_mini_motors"
+  },
+  {
+   "cat": "Trending",
+   "style": "Chibi Cute 1",
+   "video_prompt": "video_chibi_cute_1",
+   "image_prompt": "nano_mini_motors_1"
+  },
+  {
+   "cat": "Trending",
+   "style": "Bridgerton",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_bridgerton"
+  },
+  {
+   "cat": "Trending",
+   "style": "Light Off",
+   "video_prompt": "video_light_off",
+   "image_prompt": "nano_light_off"
+  },
+  {
+   "cat": "Trending",
+   "style": "Hairswipe 2",
+   "video_prompt": "video_hairswipe_2",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Elsa",
+   "video_prompt": "video_elsa",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Trending",
+   "style": "Pet Dance",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_pet_dance"
+  },
+  {
+   "cat": "Trending",
+   "style": "Pet Cook",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_pet_cook"
+  },
+  {
+   "cat": "Trending",
+   "style": "Dance",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_dance"
+  },
+  {
+   "cat": "Trending",
+   "style": "New Year",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_new_year"
+  },
+  {
+   "cat": "Trending",
+   "style": "Rain",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_rain"
+  },
+  {
+   "cat": "Trending",
+   "style": "Creepy",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_creepy"
+  },
+  {
+   "cat": "Trending",
+   "style": "Stranger Things",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_stranger_things"
+  },
+  {
+   "cat": "Trending",
+   "style": "Merry Go Around",
+   "video_prompt": "video_merry_go_round",
+   "image_prompt": "nano_merry_go_around"
+  },
+  {
+   "cat": "Viral Dance",
+   "style": "Baby Dance India",
+   "video_prompt": "video_mimic_dance",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Viral Dance",
+   "style": "Pet Dance New",
+   "video_prompt": "video_mimic_dance",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Viral Dance",
+   "style": "Fruit Dance",
+   "video_prompt": "video_mimic_dance",
+   "image_prompt": "nano_strawberry"
+  },
+  {
+   "cat": "Viral Dance",
+   "style": "India Dance",
+   "video_prompt": "video_india_dancing",
+   "image_prompt": "nano_india_dance"
+  },
+  {
+   "cat": "Viral Dance",
+   "style": "Mimic Dance",
+   "video_prompt": "video_mimic_dance",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Viral Dance",
+   "style": "Ballet Dance",
+   "video_prompt": "video_ballet_dancing",
+   "image_prompt": "nano_ballet"
+  },
+  {
+   "cat": "Viral Dance",
+   "style": "Animal Ballet",
+   "video_prompt": "video_ballet_dancing",
+   "image_prompt": "nano_animal_ballet"
+  },
+  {
+   "cat": "Viral Dance",
+   "style": "Baby Dance 1",
+   "video_prompt": "video_baby_dance_1",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Viral Dance",
+   "style": "Baby Dance 2",
+   "video_prompt": "video_baby_dance_2",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Viral Dance",
+   "style": "Baby Dance 3",
+   "video_prompt": "video_baby_dance_3",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Viral Dance",
+   "style": "Baby Dance 4",
+   "video_prompt": "video_baby_dance_4",
+   "image_prompt": ""
+  },
+  {
+   "cat": "World Cup",
+   "style": "Victory Pose",
+   "video_prompt": "video_world_cup_2",
+   "image_prompt": "nano_world_cup_2"
+  },
+  {
+   "cat": "World Cup",
+   "style": "Stadium Lights",
+   "video_prompt": "video_world_cup_2",
+   "image_prompt": "nano_world_cup_2"
+  },
+  {
+   "cat": "World Cup",
+   "style": "Nation Colors",
+   "video_prompt": "video_world_cup_2",
+   "image_prompt": "nano_world_cup_2"
+  },
+  {
+   "cat": "World Cup",
+   "style": "Trophy Lift",
+   "video_prompt": "video_world_cup_2",
+   "image_prompt": "nano_world_cup_2"
+  },
+  {
+   "cat": "World Cup",
+   "style": "Squad Photo",
+   "video_prompt": "video_world_cup_2",
+   "image_prompt": "nano_world_cup_2"
+  },
+  {
+   "cat": "Extreme Riders",
+   "style": "Cyber City Flight",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_cyber_city_flight"
+  },
+  {
+   "cat": "Extreme Riders",
+   "style": "Sky Racer",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_sky_racer"
+  },
+  {
+   "cat": "Extreme Riders",
+   "style": "Speed Sprites",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_speed_sprites"
+  },
+  {
+   "cat": "Extreme Riders",
+   "style": "Ocean Ride",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_oceanride"
+  },
+  {
+   "cat": "Extreme Riders",
+   "style": "Mountain Climb",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_mountain_climb"
+  },
+  {
+   "cat": "Extreme Riders",
+   "style": "Speed Demon",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_speed_demon"
+  },
+  {
+   "cat": "Extreme Riders",
+   "style": "Apex Hunter",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_apex_hunter"
+  },
+  {
+   "cat": "Danceboo",
+   "style": "Soda Pop",
+   "video_prompt": "video_danceboo",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Danceboo",
+   "style": "Pet Sugar Dance",
+   "video_prompt": "video_danceboo",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Danceboo",
+   "style": "Idol Dance",
+   "video_prompt": "video_danceboo",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Danceboo",
+   "style": "Hand Up Dance",
+   "video_prompt": "video_danceboo",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Danceboo",
+   "style": "Squirrel Danceboo",
+   "video_prompt": "video_danceboo",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Danceboo",
+   "style": "Panda Danceboo",
+   "video_prompt": "video_danceboo",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Danceboo",
+   "style": "Man Danceboo",
+   "video_prompt": "video_danceboo",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Danceboo",
+   "style": "Watermelon Danceboo",
+   "video_prompt": "video_danceboo",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Chibi Cute",
+   "style": "Chibi Cute 1",
+   "video_prompt": "video_chibi_cute_1",
+   "image_prompt": "nano_mini_motors_1"
+  },
+  {
+   "cat": "Chibi Cute",
+   "style": "Mini Motors",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_mini_motors"
+  },
+  {
+   "cat": "Chibi Cute",
+   "style": "Chibi Cute 2",
+   "video_prompt": "video_chibi_cute_2",
+   "image_prompt": "nano_mini_motors_1"
+  },
+  {
+   "cat": "Chibi Cute",
+   "style": "Mini Motors 1",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_mini_motors"
+  },
+  {
+   "cat": "Chibi Cute",
+   "style": "Chibi Cute 3",
+   "video_prompt": "video_chibi_cute_3",
+   "image_prompt": "nano_mini_motors_1"
+  },
+  {
+   "cat": "Chibi Cute",
+   "style": "Horse",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_horse"
+  },
+  {
+   "cat": "Chibi Cute",
+   "style": "Chibi Cute 4",
+   "video_prompt": "video_chibi_cute_4",
+   "image_prompt": "nano_mini_motors_1"
+  },
+  {
+   "cat": "Memory",
+   "style": "Everything Will Be Fine",
+   "video_prompt": "video_soul",
+   "image_prompt": "soul_fine"
+  },
+  {
+   "cat": "Memory",
+   "style": "Gentle Support",
+   "video_prompt": "video_soul",
+   "image_prompt": "soul_gentle"
+  },
+  {
+   "cat": "Memory",
+   "style": "Hug From Heaven",
+   "video_prompt": "video_soul",
+   "image_prompt": "soul_hug"
+  },
+  {
+   "cat": "Memory",
+   "style": "Talk Again",
+   "video_prompt": "video_soul",
+   "image_prompt": "soul_talk"
+  },
+  {
+   "cat": "Memory",
+   "style": "Warm Support",
+   "video_prompt": "video_soul",
+   "image_prompt": "soul_support"
+  },
+  {
+   "cat": "Memory",
+   "style": "Guidance",
+   "video_prompt": "video_soul",
+   "image_prompt": "soul_guidance"
+  },
+  {
+   "cat": "Billionaire",
+   "style": "Billionaire Aura",
+   "video_prompt": "video_billionare_1",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Billionaire",
+   "style": "Elite Billionaire",
+   "video_prompt": "video_billionare_2",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Billionaire",
+   "style": "Modern Billionaire",
+   "video_prompt": "video_billionare_3",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Billionaire",
+   "style": "Young Billionaire",
+   "video_prompt": "video_billionaire_4",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Billionaire",
+   "style": "Billionaire Legacy",
+   "video_prompt": "video_billionaire_5",
+   "image_prompt": ""
+  },
+  {
+   "cat": "AI Comic",
+   "style": "Comic Tiny 1",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_comic_tiny_1"
+  },
+  {
+   "cat": "AI Comic",
+   "style": "Comic Tiny 2",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_comic_tiny_2"
+  },
+  {
+   "cat": "AI Comic",
+   "style": "Comic Tiny 3",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_comic_tiny_3"
+  },
+  {
+   "cat": "AI Comic",
+   "style": "Comic Tiny 4",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_comic_tiny_4"
+  },
+  {
+   "cat": "AI Comic",
+   "style": "AI Comic 2",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_tiny_adventure_2"
+  },
+  {
+   "cat": "AI Comic",
+   "style": "AI Comic 1",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_tiny_adventure_1"
+  },
+  {
+   "cat": "AI Comic",
+   "style": "AI Comic 3",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_tiny_adventure_3"
+  },
+  {
+   "cat": "Pet Cook",
+   "style": "Pet Ramanda Cook 1",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_pet_ramanda_cook_1"
+  },
+  {
+   "cat": "Pet Cook",
+   "style": "Pet Ramanda Cook 2",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_pet_ramanda_cook_2"
+  },
+  {
+   "cat": "Pet Cook",
+   "style": "Pet Ramanda Cook 3",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_pet_ramanda_cook_3"
+  },
+  {
+   "cat": "Pet Cook",
+   "style": "Pet Ramanda Cook 4",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_pet_ramanda_cook_4"
+  },
+  {
+   "cat": "Pet Cook",
+   "style": "Pet Ramanda Cook 4",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_pet_ramanda_cook_5"
+  },
+  {
+   "cat": "Mini Riders",
+   "style": "Pterodactyl 1",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_pterodactyl"
+  },
+  {
+   "cat": "Mini Riders",
+   "style": "Eagle",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_eagle"
+  },
+  {
+   "cat": "Mini Riders",
+   "style": "Dinosaur",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_pterodactyl _1"
+  },
+  {
+   "cat": "Mini Riders",
+   "style": "Pterodactyl 2",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_dinnosaur"
+  },
+  {
+   "cat": "Nostalgia",
+   "style": "Dad",
+   "video_prompt": "video_motion",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Nostalgia",
+   "style": "Memory",
+   "video_prompt": "video_motion",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Nostalgia",
+   "style": "Grandpa",
+   "video_prompt": "video_motion",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Nostalgia",
+   "style": "Family",
+   "video_prompt": "video_motion",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Nostalgia",
+   "style": "Grandma",
+   "video_prompt": "video_motion",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Nostalgia",
+   "style": "Mom",
+   "video_prompt": "video_motion",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Nostalgia",
+   "style": "Mom & Dad",
+   "video_prompt": "video_motion",
+   "image_prompt": ""
+  },
+  {
+   "cat": "Hot",
+   "style": "Hollywood",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_hollywood"
+  },
+  {
+   "cat": "Hot",
+   "style": "Couple Rain",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_couple_rain"
+  },
+  {
+   "cat": "Hot",
+   "style": "Frost",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_frost"
+  },
+  {
+   "cat": "Hot",
+   "style": "Glacier",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_glacier"
+  },
+  {
+   "cat": "Hot",
+   "style": "Snow Globe",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_snow_globe"
+  },
+  {
+   "cat": "Vintage",
+   "style": "Felices",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_felices"
+  },
+  {
+   "cat": "Vintage",
+   "style": "Beach",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_beach"
+  },
+  {
+   "cat": "Vintage",
+   "style": "Flower",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_flower"
+  },
+  {
+   "cat": "Vintage",
+   "style": "Rose1",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_rose1"
+  },
+  {
+   "cat": "Vintage",
+   "style": "Hongkong",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_hongkong"
+  },
+  {
+   "cat": "Arrest",
+   "style": "Home Arrest",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_home_arrest"
+  },
+  {
+   "cat": "Arrest",
+   "style": "Police Arrest",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_police_arrest"
+  },
+  {
+   "cat": "Arrest",
+   "style": "Courtroom Arrest",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_courtroom_arrest"
+  },
+  {
+   "cat": "Arrest",
+   "style": "FBI Arrest",
+   "video_prompt": "video_motion",
+   "image_prompt": "nano_fbi_arrest"
+  }
+ ],
+ "ai_beauty": [
+  {
+   "id": "ABM0002",
+   "name": "DSLR"
+  },
+  {
+   "id": "ABM0003",
+   "name": "Kiểu fuji"
+  },
+  {
+   "id": "ABM0004",
+   "name": "Phim ấm"
+  },
+  {
+   "id": "ABM0016",
+   "name": "Góc Rộng Cổ Điển"
+  },
+  {
+   "id": "ABM0019",
+   "name": "Đèn Flash Fuji"
+  },
+  {
+   "id": "ABM0020",
+   "name": "Đèn Flash Ấm"
+  },
+  {
+   "id": "ABM0021",
+   "name": "Nắng"
+  },
+  {
+   "id": "ABM0022",
+   "name": "Ngược sáng khí quyển"
+  },
+  {
+   "id": "ABM0023",
+   "name": "Hoàng Hôn Thế Kỷ"
+  },
+  {
+   "id": "ABM0024",
+   "name": "Giờ Xanh"
+  },
+  {
+   "id": "ABM0025",
+   "name": "Nhật Ký Chim Biển"
+  },
+  {
+   "id": "ABM0026",
+   "name": "Thảm Hoa Tường Nguyệt"
+  },
+  {
+   "id": "ABM0027",
+   "name": "Hoa Anh Đào Đêm"
+  },
+  {
+   "id": "ABM0028",
+   "name": "Tuyết mùa đông"
+  },
+  {
+   "id": "ABM0029",
+   "name": "Lá Mùa Thu"
+  },
+  {
+   "id": "ABM0030",
+   "name": "Cầu vồng"
+  },
+  {
+   "id": "ABM0031",
+   "name": "Bình minh"
+  },
+  {
+   "id": "ABM0032",
+   "name": "Sửa cỏ"
+  },
+  {
+   "id": "ABM0034",
+   "name": "Hoa Anh Đào Xuân"
+  },
+  {
+   "id": "ABM0038",
+   "name": "Xóa người qua đường"
+  },
+  {
+   "id": "ABM0039",
+   "name": "Quán cà phê cổ điển"
+  },
+  {
+   "id": "ABM0040",
+   "name": "Đêm Trăng"
+  },
+  {
+   "id": "ABM0041",
+   "name": "Kỳ nghỉ Bali"
+  },
+  {
+   "id": "ABM0042",
+   "name": "Tiệc Đêm"
+  },
+  {
+   "id": "ABM0045",
+   "name": "Phim Tại Nhà"
+  },
+  {
+   "id": "ABM0046",
+   "name": "6s"
+  },
+  {
+   "id": "ABM0047",
+   "name": "Lãng mạn"
+  },
+  {
+   "id": "ABM0048",
+   "name": "Sương mù"
+  },
+  {
+   "id": "ABM0049",
+   "name": "Ánh Sáng Mặt Trời G12"
+  }
+ ],
+ "ai_background_portraits": [
+  {
+   "id": "PMAI0001",
+   "name": "Greenhouse"
+  },
+  {
+   "id": "PMAI0005",
+   "name": "Library"
+  },
+  {
+   "id": "PMAI0002",
+   "name": "Insta"
+  },
+  {
+   "id": "PMAI0008",
+   "name": "Street"
+  },
+  {
+   "id": "PMAI0010",
+   "name": "Peace"
+  },
+  {
+   "id": "PMAI0006",
+   "name": "Coast"
+  },
+  {
+   "id": "PMAI0009",
+   "name": "Sunflower"
+  },
+  {
+   "id": "PMAI0007",
+   "name": "Blossom"
+  }
+ ],
+ "ai_background_products": [
+  {
+   "id": "PMAI0019",
+   "name": "Stone"
+  },
+  {
+   "id": "PMAI0012",
+   "name": "Satin"
+  },
+  {
+   "id": "PMAI0016",
+   "name": "Velvet"
+  },
+  {
+   "id": "PMAI0017",
+   "name": "Chopping Board"
+  },
+  {
+   "id": "PMAI0021",
+   "name": "Timber"
+  },
+  {
+   "id": "PMAI0018",
+   "name": "Workspace"
+  },
+  {
+   "id": "PMAI0020",
+   "name": "Yard"
+  },
+  {
+   "id": "PMAI0015",
+   "name": "Skylight"
+  },
+  {
+   "id": "PMAI0004",
+   "name": "Tea garden"
+  },
+  {
+   "id": "PMAI0013",
+   "name": "Looking Glass"
+  },
+  {
+   "id": "PMAI0014",
+   "name": "Pattern"
+  }
+ ],
+ "wardrobe_clothes": [
+  {
+   "id": "ACM0002",
+   "name": "Midnight Gown"
+  },
+  {
+   "id": "ACM0003",
+   "name": "Gentle Mood"
+  },
+  {
+   "id": "ACM0005",
+   "name": "Office"
+  },
+  {
+   "id": "ACM0006",
+   "name": "Striped Shirt"
+  },
+  {
+   "id": "ACM0012",
+   "name": "Classic Shirt"
+  },
+  {
+   "id": "ACM0013",
+   "name": "Lady Vest"
+  },
+  {
+   "id": "ACM0035",
+   "name": "Pattern Play"
+  },
+  {
+   "id": "ACM0048",
+   "name": "Uniform"
+  },
+  {
+   "id": "ACM0049",
+   "name": "Baby Doll"
+  },
+  {
+   "id": "ACM0074",
+   "name": "Pure Sunday"
+  },
+  {
+   "id": "ACM0075",
+   "name": "Sunny Days"
+  },
+  {
+   "id": "ACM0077",
+   "name": "Blue Stripes"
+  },
+  {
+   "id": "ACM0080",
+   "name": "Fire Nezha"
+  },
+  {
+   "id": "ACM0082",
+   "name": "White Jasmine"
+  },
+  {
+   "id": "ACM0084",
+   "name": "Dynasty Look"
+  },
+  {
+   "id": "ACM0087",
+   "name": "Lace Dress"
+  },
+  {
+   "id": "ACM0091",
+   "name": "Idol Look"
+  },
+  {
+   "id": "ACM0092",
+   "name": "Silk Ribbon"
+  },
+  {
+   "id": "ACM0093",
+   "name": "Cutie pie"
+  },
+  {
+   "id": "ACM0094",
+   "name": "Glitter Dress"
+  },
+  {
+   "id": "ACM0097",
+   "name": "Party Glam"
+  },
+  {
+   "id": "ACM0099",
+   "name": "Kimono"
+  },
+  {
+   "id": "ACM0100",
+   "name": "Floral Print"
+  },
+  {
+   "id": "ACM0102",
+   "name": "Silk Scarf"
+  },
+  {
+   "id": "ACM0105",
+   "name": "Bodycon Fit"
+  },
+  {
+   "id": "ACM0106",
+   "name": "Black Dress"
+  },
+  {
+   "id": "ACM0112",
+   "name": "Bloom Shirt"
+  },
+  {
+   "id": "ACM0114",
+   "name": "Sleeveless Fit"
+  },
+  {
+   "id": "ACM0115",
+   "name": "Plaid Shirt"
+  },
+  {
+   "id": "ACM0117",
+   "name": "Pinky dress"
+  },
+  {
+   "id": "ACM0118",
+   "name": "Satin Silk"
+  },
+  {
+   "id": "ACM0124",
+   "name": "Eternal"
+  },
+  {
+   "id": "ACM0125",
+   "name": "Dark Chic"
+  },
+  {
+   "id": "ACM0127",
+   "name": "Puffy Dress"
+  },
+  {
+   "id": "ACM0129",
+   "name": "Scholarly Look"
+  },
+  {
+   "id": "ACM0132",
+   "name": "Sweet Meow"
+  },
+  {
+   "id": "ACM0133",
+   "name": "Orange Jacket"
+  },
+  {
+   "id": "ACM0134",
+   "name": "Hong Kong"
+  },
+  {
+   "id": "ACM0137",
+   "name": "Premium Style"
+  },
+  {
+   "id": "ACM0143",
+   "name": "Rose blossom dress"
+  },
+  {
+   "id": "ACM0144",
+   "name": "Floral bridal gown"
+  },
+  {
+   "id": "ACM0149",
+   "name": "Snow Bloom"
+  },
+  {
+   "id": "ACM0152",
+   "name": "Golden Blush"
+  },
+  {
+   "id": "ACM0155",
+   "name": "Blush Cloud"
+  },
+  {
+   "id": "ACM0160",
+   "name": "Elegant"
+  },
+  {
+   "id": "ACM0166",
+   "name": "Crimson Gaze"
+  },
+  {
+   "id": "ACM0169",
+   "name": "Mint bikini"
+  },
+  {
+   "id": "ACM0170",
+   "name": "Cinderella vibes"
+  },
+  {
+   "id": "ACM0171",
+   "name": "Celadon Bloom"
+  },
+  {
+   "id": "ACM0177",
+   "name": "Tiny Babe"
+  },
+  {
+   "id": "ACM0180",
+   "name": "Green Skirt"
+  },
+  {
+   "id": "ACM0181",
+   "name": "Tiny Cat"
+  },
+  {
+   "id": "ACM0182",
+   "name": "Lady Charm"
+  },
+  {
+   "id": "ACM0191",
+   "name": "Fox Prince"
+  },
+  {
+   "id": "ACM0205",
+   "name": "Pink princess"
+  },
+  {
+   "id": "ACM0207",
+   "name": "Cozy Knit"
+  },
+  {
+   "id": "ACM0212",
+   "name": "Fox Spirit"
+  },
+  {
+   "id": "ACM0213",
+   "name": "Samba"
+  },
+  {
+   "id": "ACM0229",
+   "name": "Roomy Vibes"
+  },
+  {
+   "id": "ACM0243",
+   "name": "Bunny"
+  },
+  {
+   "id": "ACM0252",
+   "name": "Light Cardigan"
+  },
+  {
+   "id": "ACM0257",
+   "name": "Purple Reign"
+  },
+  {
+   "id": "ACM0263",
+   "name": "Cowboy Mood"
+  },
+  {
+   "id": "ACM0264",
+   "name": "Wild West"
+  },
+  {
+   "id": "ACM0267",
+   "name": "Asym Shoulder"
+  },
+  {
+   "id": "ACM0273",
+   "name": "Bloomy dress"
+  },
+  {
+   "id": "ACM0278",
+   "name": "Sun-protective"
+  },
+  {
+   "id": "ACM0292",
+   "name": "Soft Mood"
+  },
+  {
+   "id": "ACM0326",
+   "name": "Little Royal"
+  },
+  {
+   "id": "ACM0349",
+   "name": "Crimson Bloom"
+  },
+  {
+   "id": "ACM0350",
+   "name": "Silk Petal"
+  },
+  {
+   "id": "ACM0365",
+   "name": "Wild Bandeau"
+  },
+  {
+   "id": "ACM0366",
+   "name": "Bloom Field"
+  },
+  {
+   "id": "ACM0367",
+   "name": "Hypnotic Gaze"
+  },
+  {
+   "id": "ACM0368",
+   "name": "Frosted Silk"
+  },
+  {
+   "id": "ACM0369",
+   "name": "Bare Elegance"
+  },
+  {
+   "id": "ACM0371",
+   "name": "Bloom Shape"
+  },
+  {
+   "id": "ACM0372",
+   "name": "Mythic Muse"
+  },
+  {
+   "id": "ACM0373",
+   "name": "Faded Memory"
+  },
+  {
+   "id": "ACM0374",
+   "name": "Azure Lake"
+  },
+  {
+   "id": "ACM0376",
+   "name": "Galena Glow"
+  },
+  {
+   "id": "ACM0377",
+   "name": "Desert Heat"
+  },
+  {
+   "id": "ACM0379",
+   "name": "Gradient Blur"
+  },
+  {
+   "id": "ACM0381",
+   "name": "Snow Babi"
+  },
+  {
+   "id": "ACM0383",
+   "name": "Blush Garden"
+  },
+  {
+   "id": "ACM0384",
+   "name": "Jasmine Bloom"
+  },
+  {
+   "id": "ACM0391",
+   "name": "Romantic Mood"
+  },
+  {
+   "id": "ACM0394",
+   "name": "Picnic Mood"
+  },
+  {
+   "id": "ACM0395",
+   "name": "Whisper"
+  },
+  {
+   "id": "ACM0396",
+   "name": "Venus Shine"
+  },
+  {
+   "id": "ACM0397",
+   "name": "Fluffy tulle"
+  },
+  {
+   "id": "ACM0398",
+   "name": "Blossom Tip"
+  },
+  {
+   "id": "ACM0399",
+   "name": "Pink Dots"
+  },
+  {
+   "id": "ACM0400",
+   "name": "White Blazer"
+  },
+  {
+   "id": "ACM0401",
+   "name": "Dusty Rose"
+  },
+  {
+   "id": "ACM0402",
+   "name": "Soft Rose"
+  },
+  {
+   "id": "ACM0403",
+   "name": "Milky Soft"
+  },
+  {
+   "id": "ACM0404",
+   "name": "Lumira"
+  },
+  {
+   "id": "ACM0405",
+   "name": "Lime"
+  },
+  {
+   "id": "ACM0406",
+   "name": "Pollen Blush"
+  },
+  {
+   "id": "ACM0408",
+   "name": "Lotus Whisper"
+  },
+  {
+   "id": "ACM0409",
+   "name": "Sunny Glow"
+  },
+  {
+   "id": "ACM0412",
+   "name": "Elegant Vibe"
+  },
+  {
+   "id": "ACM0413",
+   "name": "Grad Day"
+  },
+  {
+   "id": "ACM0414",
+   "name": "Blooming"
+  },
+  {
+   "id": "ACM0415",
+   "name": "Cherry Bloom"
+  },
+  {
+   "id": "ACM0416",
+   "name": "Cute Bow"
+  },
+  {
+   "id": "ACM0417",
+   "name": "Character"
+  },
+  {
+   "id": "ACM0418",
+   "name": "Little Black"
+  },
+  {
+   "id": "ACM0419",
+   "name": "Mermaid dress"
+  },
+  {
+   "id": "ACM0420",
+   "name": "Lace wedding gown"
+  },
+  {
+   "id": "ACM0424",
+   "name": "Horse Spirit"
+  },
+  {
+   "id": "ACM0426",
+   "name": "Blush of Glory"
+  },
+  {
+   "id": "ACM0435",
+   "name": "Sea Mint"
+  },
+  {
+   "id": "ACM0437",
+   "name": "Vintage"
+  },
+  {
+   "id": "ACM0441",
+   "name": "Tropical Heat"
+  },
+  {
+   "id": "ACM0442",
+   "name": "Luna"
+  },
+  {
+   "id": "ACM0443",
+   "name": "Jasmine"
+  },
+  {
+   "id": "ACM0445",
+   "name": "Checkered Love"
+  },
+  {
+   "id": "ACM0446",
+   "name": "Baby Bee"
+  },
+  {
+   "id": "ACM0454",
+   "name": "Pink Birthday"
+  },
+  {
+   "id": "ACM0464",
+   "name": "Strawberry Pop"
+  },
+  {
+   "id": "ACM0466",
+   "name": "Hiphop Vibes"
+  },
+  {
+   "id": "ACM0472",
+   "name": "White Bikini"
+  },
+  {
+   "id": "ACM0477",
+   "name": "Rebel Punk"
+  },
+  {
+   "id": "ACM1234",
+   "name": "Leopard Touch"
+  },
+  {
+   "id": "ACM0484",
+   "name": "Crimson Curve"
+  },
+  {
+   "id": "ACM1239",
+   "name": "Blue Bow"
+  },
+  {
+   "id": "ACM1240",
+   "name": "Ancient Grace"
+  },
+  {
+   "id": "ACM1242",
+   "name": "China Chic"
+  },
+  {
+   "id": "ACM1244",
+   "name": "Trendy Pink"
+  },
+  {
+   "id": "ACM1245",
+   "name": "Bao Cutie"
+  },
+  {
+   "id": "ACM1246",
+   "name": "Vintage Bloom"
+  },
+  {
+   "id": "ACM1247",
+   "name": "Retro School"
+  },
+  {
+   "id": "ACM1248",
+   "name": "Red Plaid"
+  }
+ ]
+}
