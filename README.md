@@ -101,6 +101,17 @@ stress.js    压测
 config.json  密钥配置
 ```
 
+## 📚 文档导航
+
+| 文档 | 用途 |
+|---|---|
+| **[CAPABILITIES.md](CAPABILITIES.md)** | ⚠️ **能力边界必读** — 本渠道是模板驱动图片生成器，非通用 t2i，无 t2v |
+| **[NEW-API-CONNECT-GUIDE.md](NEW-API-CONNECT-GUIDE.md)** | ⭐ **对接实操手册** — 照做即可，含完整 Go 代码 |
+| [MODELS.md](MODELS.md) | 774 个模型/模板完整清单 |
+| [NEW-API-INTEGRATION.md](NEW-API-INTEGRATION.md) | 协议对接参考（三种方案）|
+| [models_catalog.json](models_catalog.json) | 结构化清单（程序化导入用）|
+| [go-client/nanoai.go](go-client/nanoai.go) | 可运行的 Go 参考实现 |
+
 ## 🎯 两个接入路径
 
 | 路径 | 适用 | 说明 |
